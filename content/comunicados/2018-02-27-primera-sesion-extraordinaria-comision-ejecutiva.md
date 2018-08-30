@@ -1,15 +1,15 @@
 Title: Primera Sesión Extraordinaria 2018 de la Comisión Ejecutiva
 Slug: 2018-02-27-primera-sesion-extraordinaria-comision-ejecutiva
 Summary: Se revisó el avance del programa de trabajo de la Comisión Ejecutiva.
-Tags: Sesiones, Comisión Ejecutiva
+Tags: Comisión Ejecutiva, Sesiones
 Date: 2018-02-27 11:50
 Modified: 2018-05-24 18:33
 Image: preview.jpg
 
 
-### Se revisó el avance del programa de trabajo de la Comisión Ejecutiva
-
 Comisión Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Zaragoza.
+
+### Se revisó el avance del programa de trabajo de la Comisión Ejecutiva
 
 La coordinadora de la **Comisión Ejecutiva,** a cargo de la consejera
 **Ana Yuri Solís** verificó el quórum requerido para llevar a cabo la

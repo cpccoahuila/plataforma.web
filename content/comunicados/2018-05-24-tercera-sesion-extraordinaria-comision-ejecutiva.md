@@ -1,7 +1,7 @@
 Title: Tercera Sesión Extraordinaria 2018 de la Comisión Ejecutiva
 Slug: 2018-05-24-tercera-sesion-extraordinaria-comision-ejecutiva
 Summary: El pasado 24 de mayo, se llevó a cabo la tercera reunión extraordinaria de la Comisión Ejecutiva, con el objetivo de dar seguimiento a las actividades de su Programa de Trabajo.
-Tags: Sesiones, Comisión Ejecutiva
+Tags: Comisión Ejecutiva, Sesiones
 Date: 2018-05-24 18:40
 Modified: 2018-05-24 18:40
 Image: preview.jpg

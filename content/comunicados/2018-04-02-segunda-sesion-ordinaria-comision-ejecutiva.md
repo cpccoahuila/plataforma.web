@@ -1,9 +1,9 @@
 Title: Segunda Sesión Ordinaria 2018 de la Comisión Ejecutiva
-Slug: 2018-04-02-segunda-sesion-ordinaria
+Slug: 2018-04-02-segunda-sesion-ordinaria-comision-ejecutiva
 Summary: Se trataron los avances en las acciones plasmadas en el programa de trabajo de cada una de las Comisiones temáticas, estas son: jurídica, vinculación con municipios, capacitación y difusión, coordinación interinstitucional, y de políticas públicas y sistemas de información.
-Tags: Sesiones, Comisión Ejecutiva
+Tags: Comisión Ejecutiva, Sesiones
 Date: 2018-04-02 15:25
-Modified: 2018-05-24 18:38
+Modified: 2018-08-30 15:35
 Image: preview.jpg
 
 

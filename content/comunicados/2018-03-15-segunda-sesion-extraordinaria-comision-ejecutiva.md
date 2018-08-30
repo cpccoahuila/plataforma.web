@@ -1,15 +1,15 @@
-Title: Segunda Sesión Extraordinaria de la Comisión Ejecutiva
+Title: Segunda Sesión Extraordinaria 2018 de la Comisión Ejecutiva
 Slug: 2018-03-15-segunda-sesion-extraordinaria-comision-ejecutiva
 Summary: En la que se dió seguimiento al diseño y ejecución de los objetivos estratégicos y líneas de acción planteados en el Programa de Trabajo.
-Tags: Sesiones, Comisión Ejecutiva
+Tags: Comisión Ejecutiva, Sesiones
 Date: 2018-03-15 19:50
-Modified: 2018-05-24 18:35
+Modified: 2018-07-13 10:30
 Image: preview.jpg
 
 
-### En la que se dió seguimiento al diseño y ejecución de los objetivos estratégicos y líneas de acción planteados en el Programa de Trabajo
-
 Comisión Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Zaragoza
+
+### En la que se dió seguimiento al diseño y ejecución de los objetivos estratégicos y líneas de acción planteados en el Programa de Trabajo
 
 El día de hoy, se llevó a cabo la segunda sesión extraordinaria de la
 **Comisión Ejecutiva** en el 2018, misma que tuvo como propósito, dar

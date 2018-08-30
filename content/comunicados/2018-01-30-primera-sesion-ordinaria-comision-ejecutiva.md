@@ -1,15 +1,15 @@
 Title: Primera Sesión Ordinaria 2018 de la Comisión Ejecutiva
-Slug: 2018-01-30-primera-sesion-ordinaria
+Slug: 2018-01-30-primera-sesion-ordinaria-comision-ejecutiva
 Summary: El 30 de enero 2018 se acordó continuar con la elaboración de la propuesta del programa de trabajo y se buscarán reuniones con los integrantes del Comité Coordinador para complementar el diagnóstico y establecer las directrices generales.
-Tags: Sesiones, Comisión Ejecutiva
+Tags: Comisión Ejecutiva, Sesiones
 Date: 2018-01-30 09:10
-Modified: 2018-05-24 18:31
+Modified: 2018-08-30 15:35
 Image: preview.jpg
 
 
-### El 30 de enero 2018 se acordó continuar con la elaboración de la propuesta del programa de trabajo y se buscarán reuniones con los integrantes del Comité Coordinador para complementar el diagnóstico y establecer las directrices generales
-
 Comisión Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Zaragoza.
+
+### El 30 de enero 2018 se acordó continuar con la elaboración de la propuesta del programa de trabajo y se buscarán reuniones con los integrantes del Comité Coordinador para complementar el diagnóstico y establecer las directrices generales
 
 La **Secretaria Técnica** de la **Comisión Ejecutiva** del **Sistema
 Anticorrupción del Estado de Coahuila de Zaragoza,** verificó la

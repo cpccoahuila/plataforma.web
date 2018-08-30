@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+
+{% block title %}Categorías - {{ SITENAME }}{% endblock %}
+
+{% block content %}
+    <header class="masthead" style="background-image: url('{{ SITEURL }}/imagenes/comun.jpg')">
+        <div class="overlay"></div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-md-10 mx-auto">
+                    <div class="post-heading">
+                        <h1>Categorías</h1>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-md-10 mx-auto">
+                <ul>
+                    {% for category, articles in categories %}
+                    <li><a href="{{ SITEURL }}/{{ category.url }}">{{ category }}</a></li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+    </div>
+{% endblock %}

@@ -1,0 +1,13 @@
+{% extends "index.html" %}
+
+{% block title %}
+    {% if category == 'boletines' %}
+        Boletines - {{ SITENAME }}
+    {% elif category == 'documentos' %}
+        Documentos - {{ SITENAME }}
+    {% else %}
+        {{ SITENAME }}
+    {% endif %}
+{% endblock %}
+
+{% block content_title %}Publicaciones en la categoría {{ category }}{% endblock %}
