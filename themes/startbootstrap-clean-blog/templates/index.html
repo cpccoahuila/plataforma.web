@@ -12,7 +12,7 @@
 
 {% block content %}
 {% if output_file == 'index.html' %}
-    <header class="masthead" style="background-image: url('{{ SITEURL }}/imagenes/comun.jpg')">
+    <header class="masthead" style="background-image: url('{{ SITEURL }}/theme/images/comun.jpg')">
         <div class="overlay"></div>
         <div class="container">
             <div class="row">
@@ -32,11 +32,7 @@
         </div>
     </header>
 {% else %}
-    {% if category %}
-    <header class="masthead" style="background-image: url('{{ SITEURL }}/imagenes/{{ category }}.jpg')">
-    {% else %}
-    <header class="masthead" style="background-image: url('{{ SITEURL }}/imagenes/comun.jpg')">
-    {% endif %}
+    <header class="masthead" style="background-image: url('{{ SITEURL }}/theme/images/comun.jpg')">
         <div class="overlay"></div>
         <div class="container">
             <div class="row">

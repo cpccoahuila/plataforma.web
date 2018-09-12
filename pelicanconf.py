@@ -38,6 +38,7 @@ PAGE_SAVE_AS = '{category}/{slug}/index.html'
 
 # Tema
 THEME = 'themes/startbootstrap-clean-blog'
+#THEME = 'themes/startbootstrap-clean-blog-colores'
 
 # Lenguaje y zona horaria
 DEFAULT_LANG = 'es'
