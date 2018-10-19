@@ -34,7 +34,7 @@
                       "author": "{{ page.author }}",
                       "name": "{{ page.title }}",
                       "headline": "{{ page.title }}",
-                      "description": "{{ page.summary }}",
+                      "description": "{{ page.summary|striptags }}",
                       "dateCreated": "{{ page.date }}",
                       "datePublished": "{{ page.date }}",
                       "dateModified": "{{ page.modified }}",

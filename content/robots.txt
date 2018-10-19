@@ -1,2 +1,2 @@
 User-Agent: *
-Disallow: /feeds /theme
+Disallow: /author /category /feeds /tag /theme /documentos/2017-12-31-aspirantes

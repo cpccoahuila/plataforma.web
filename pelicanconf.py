@@ -22,7 +22,7 @@ PAGE_PATHS = ['3de3', 'contacto', 'transparencia']
 
 # Directorios y archivos que son fijos
 # Agregue también los directorios con archivos para las artículos
-STATIC_PATHS = ['CNAME', 'favicon.ico', 'imagenes', 'LICENSE', 'README.md',
+STATIC_PATHS = ['CNAME', 'favicon.ico', 'LICENSE', 'README.md', 'robots.txt',
                 '3de3', 'comunicados', 'documentos']
 
 # Usar el nombre del directorio como la categoría

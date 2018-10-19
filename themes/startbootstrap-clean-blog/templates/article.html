@@ -35,7 +35,7 @@
                       "author": "{{ article.author }}",
                       "name": "{{ article.title }}",
                       "headline": "{{ article.title }}",
-                      "description": "{{ article.summary }}",
+                      "description": "{{ article.summary|striptags }}",
                       "dateCreated": "{{ article.date }}",
                       "datePublished": "{{ article.date }}",
                       "dateModified": "{{ article.modified }}",
