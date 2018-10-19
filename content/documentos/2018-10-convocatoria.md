@@ -1,10 +1,12 @@
 Title: Convocatoria
 Slug: 2018-10-convocatoria
-Summary: Para participar en el Proceso de Selección de la Terna para ocupar la Secretaría Técnica.
+Summary: Convocatoria para participar en el proceso de selección de la Terna para ocupar la Secretaría Técnica.
 Tags: convocatorias
 Date: 2018-10-19 09:00
 Modified: 2018-10-19 12:00
 
+
+<img class="img-fluid" src="convocatoria-secretario-tecnico.jpg" alt="Inscripción a la Terna de Candidatos a la Secretaría Técnica">
 
 El Consejo de Participación Ciudadana del Sistema Anticorrupción del Estado de Coahuila de Zaragoza, con fundamento en los artículos 33 y 34 de la Ley del Sistema Anticorrupción del Estado de Coahuila de Zaragoza.
 

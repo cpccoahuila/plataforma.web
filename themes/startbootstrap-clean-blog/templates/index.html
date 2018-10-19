@@ -31,11 +31,6 @@
             </div>
         </div>
     </header>
-    <div class="container">
-        <a href="{{ SITEURL }}/documentos/2018-10-convocatoria/">
-            <img class="img-fluid" src="{{ SITEURL }}/documentos/2018-10-convocatoria/convocatoria-secretario-tecnico.jpg" alt="Inscripción a la Terna de Candidatos a la Secretaría Técnica">
-        </a>
-    </div>
 {% else %}
     <header class="masthead" style="background-image: url('{{ SITEURL }}/theme/images/comun.jpg')">
         <div class="overlay"></div>
@@ -61,10 +56,20 @@
             <div class="col-lg-8 col-md-10 mx-auto">
                 {% for article in articles %}
                 <div class="post-preview">
+                    {% if article.slug == '2018-10-convocatoria' %}
+                    <a href="{{ SITEURL }}/documentos/2018-10-convocatoria/">
+                        <img class="img-fluid" src="{{ SITEURL }}/documentos/2018-10-convocatoria/convocatoria-secretario-tecnico.jpg" alt="Inscripción a la Terna de Candidatos a la Secretaría Técnica">
+                    </a>
+                    {% elif article.slug == '2018-10-30-foro-regional-pna' %}
+                    <a href="{{ SITEURL }}/documentos/2018-10-30-foro-regional-pna/">
+                        <img class="img-fluid" src="{{ SITEURL }}/documentos/2018-10-30-foro-regional-pna/foro-regional-pna-banner.jpg" alt="Foro Regional para elaborar la Política Nacional Anticorrupción">
+                    </a>
+                    {% else %}
                     <a href="{{ SITEURL }}/{{ article.category }}/{{ article.slug }}/">
                         <h2 class="post-title">{{ article.title }}</h2>
                         <h3 class="post-subtitle">{{ article.summary }}</h3>
                     </a>
+                    {% endif %}
                 </div>
                 <hr>
                 {% else %}
