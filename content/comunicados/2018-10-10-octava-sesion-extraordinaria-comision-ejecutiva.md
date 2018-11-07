@@ -1,6 +1,6 @@
 Title: Realiza Comisión Ejecutiva, Octava Sesión Extraordinaria
 Slug: 2018-10-10-octava-sesion-extraordinaria-comision-ejecutiva
-Summary: Integrantes de la Comisión Ejecutiva de la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila,** sesionaron el miércoles 10 de octubre de 2018.
+Summary: Integrantes de la Comisión Ejecutiva de la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila, sesionaron el miércoles 10 de octubre de 2018.
 Tags: Comisión Ejecutiva, Sesiones
 Date: 2018-10-10 13:35
 Modified: 2018-10-11 13:27

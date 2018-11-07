@@ -2,8 +2,8 @@ Title: Convocatoria
 Slug: 2018-10-convocatoria
 Summary: Convocatoria para participar en el proceso de selección de la Terna para ocupar la Secretaría Técnica.
 Tags: convocatorias
-Date: 2018-10-19 09:00
-Modified: 2018-10-19 12:00
+Date: 2018-11-07 10:11
+Modified: 2018-11-07 10:11
 
 
 <img class="img-fluid" src="convocatoria-secretario-tecnico.jpg" alt="Inscripción a la Terna de Candidatos a la Secretaría Técnica">
