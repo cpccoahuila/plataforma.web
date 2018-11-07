@@ -1,4 +1,4 @@
-Title: El Consejo De Participación Ciudadana lleva a cabo reunión con CANIETI y CMIC
+Title: El Consejo de Participación Ciudadana lleva a cabo reunión con CANIETI y CMIC
 Slug: 2018-11-05-reunion-canieti-cmic
 Summary: En reunión con el Ing. Miguel Angel Flores Treviño (CANIETI) y con el Ing. José Ramón Mata Bolívar (CMIC Laguna) se expusieron temas trascendentales para el funcionamiento del Sistema Local Anticorrupción.
 Tags: Consejo de Participación Ciudadana, Reuniones

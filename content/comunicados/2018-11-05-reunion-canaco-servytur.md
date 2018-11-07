@@ -1,4 +1,4 @@
-Title: Asisten Consejeros De Participación Ciudadana a reunión de la Cámara De Comercio Servicios y Turismo De Torreón
+Title: Asisten Consejeros de Participación Ciudadana a reunión de la Cámara De Comercio Servicios y Turismo De Torreón
 Slug: 2018-11-05-reunion-canaco-servytur
 Summary: Durante la reunión del Plan Regional de Seguridad Ciudadana de CANACO-SERVYTUR del 5 de noviembre de 2018 se dieron a conocer las atribuciones del Consejo.
 Tags: Consejo de Participación Ciudadana, Reuniones
