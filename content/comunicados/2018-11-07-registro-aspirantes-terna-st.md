@@ -6,7 +6,7 @@ Date: 2018-11-07 10:23
 Modified: 2018-11-07 10:23
 
 
-El **Consejo de Participación Ciudadana informa,** que a las **22:00 horas, del día de hoy, 7 de noviembre,** existe un registro de **cuatro expedientes de aspirantes a la terna para ocupar la titularidad de la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Zaragoza.**
+El **Consejo de Participación Ciudadana informa,** que a las **22:00 horas, del día de hoy, 7 de noviembre,** existe un registro de **cuatro expedientes de aspirantes** a la [terna para ocupar la titularidad de la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Zaragoza]({filename}/documentos/2018-10-convocatoria.md).
 
 En la siguiente tabla, se muestran los datos generales de las y los aspirantes, en orden alfabético.
 
