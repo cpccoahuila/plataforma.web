@@ -44,10 +44,6 @@ THEME = 'themes/startbootstrap-clean-blog'
 DEFAULT_LANG = 'es'
 TIMEZONE = 'America/Mexico_City'
 
-# Borrar toda la salida,
-# Borra directorios ocultos en output como .git, mantenga en falso
-DELETE_OUTPUT_DIRECTORY = False
-
 # Para desarrollo, los vinculos son relativos
 RELATIVE_URLS = True
 
@@ -66,5 +62,8 @@ TAG_FEED_RSS = None
 TRANSLATION_FEED_ATOM = None
 TRANSLATION_FEED_RSS = None
 
-# Para desarrollo, recomendado mantener en falso
-LOAD_CONTENT_CACHE = False
+# Para desarrollo
+DELETE_OUTPUT_DIRECTORY = True
+LOAD_CONTENT_CACHE = True
+OUTPUT_RETENTION = ['.git', '.gitignore']
+USE_REMOTE_SERVICES = False

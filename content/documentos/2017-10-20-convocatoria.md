@@ -1,4 +1,4 @@
-Title: Convocatoria
+Title: Convocatoria 2017
 Slug: 2017-10-20-convocatoria
 Summary: Convocatoria a integrar la terna de candidatos a Secretario Técnico.
 Tags: convocatorias

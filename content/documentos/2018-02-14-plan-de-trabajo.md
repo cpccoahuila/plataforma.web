@@ -1,4 +1,4 @@
-Title: Plan de Trabajo
+Title: Plan de Trabajo 2018
 Slug: 2018-02-14-programa-de-trabajo
 Summary: Plan de Trabajo del Consejo de Participación Ciudadana del Sistema Anticorrupción del Estado de Coahuila de Zaragoza.
 Tags: consejo

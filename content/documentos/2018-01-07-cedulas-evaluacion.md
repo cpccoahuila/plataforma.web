@@ -1,4 +1,4 @@
-Title: Cédulas de evaluación para la formulación de la terna
+Title: Cédulas de evaluación para la formulación de la terna 2017
 Slug: 2018-01-07-cedulas-evaluacion
 Summary: Cédulas de Evaluación del Secretario Técnico (CEST) y promedio de las mismas.
 Tags: consejo

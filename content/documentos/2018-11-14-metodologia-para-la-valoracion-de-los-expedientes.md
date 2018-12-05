@@ -1,4 +1,4 @@
-Title: Metodología para la valoración de los expedientes presentados por las y los candidatos a integrar la terna para el nombramiento del Secretario Técnico (2018)
+Title: Metodología para la valoración de los expedientes presentados por las y los candidatos a integrar la terna para el nombramiento del Secretario Técnico 2018
 Slug: 2018-11-14-metodologia-para-la-valoracion-de-los-expedientes
 Summary: Descarga en archivo PDF de la Metodología, así como transcripción a página web.
 Tags: convocatorias
