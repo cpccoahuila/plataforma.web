@@ -7,9 +7,10 @@ SITENAME = 'Consejo de Participación Ciudadana del Sistema Anticorrupción del 
 SITEURL = 'http://www.cpccoahuila.org.mx'
 SITELOGO = 'imagenes/coahuila.png'
 SITEDESCRIPTION = ''
+SITETWITTER = '@cpccoahuila'
 
 # Autor por defecto
-AUTHOR = 'SEA Coahuila'
+AUTHOR = 'CPC Coahuila'
 
 # Directorio donde esta el contenido
 PATH = 'content'
@@ -50,6 +51,18 @@ RELATIVE_URLS = True
 # Para desarrollo, se desactiva la paginacion
 DEFAULT_PAGINATION = False
 
+# Para desarrollo, no hay cargas desde Internet
+USE_REMOTE_SERVICES = False
+
+# Para desarrollo, borrar todo output
+DELETE_OUTPUT_DIRECTORY = True
+
+# No eliminar de output los siguientes directorios y archivos
+OUTPUT_RETENTION = ['.git', '.gitignore']
+
+# Siempre aprovechar lo que se tenga en caché
+LOAD_CONTENT_CACHE = True
+
 # Feed generation
 FEED_ALL_ATOM = None
 FEED_ALL_RSS = None
@@ -61,9 +74,3 @@ TAG_FEED_ATOM = None
 TAG_FEED_RSS = None
 TRANSLATION_FEED_ATOM = None
 TRANSLATION_FEED_RSS = None
-
-# Para desarrollo
-DELETE_OUTPUT_DIRECTORY = True
-LOAD_CONTENT_CACHE = True
-OUTPUT_RETENTION = ['.git', '.gitignore']
-USE_REMOTE_SERVICES = False

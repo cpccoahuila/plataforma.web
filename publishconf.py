@@ -23,14 +23,19 @@ TRANSLATION_FEED_ATOM = None
 TRANSLATION_FEED_RSS = None
 
 # Feed options
-FEED_MAX_ITEMS = 24
+FEED_MAX_ITEMS = 12
 RSS_FEED_SUMMARY_ONLY = True
 
-# Para publicar
-DEFAULT_PAGINATION = False
+# Para publicar, los URLs son absolutos
 RELATIVE_URLS = False
 LOAD_CONTENT_CACHE = False
 DELETE_OUTPUT_DIRECTORY = False
+
+# Paginacion
+#DEFAULT_PAGINATION = True
+#DEFAULT_PAGINATION = 8
+#DEFAULT_ORPHANS = 2
+DEFAULT_PAGINATION = False
 
 # Path to the folder containing the plugins
 PLUGIN_PATHS = ['plugins']
@@ -51,6 +56,14 @@ SITEMAP = {
         'indexes': 'hourly',
         'pages': 'daily'
     },
-    'exclude': ['archives.html', 'tags.html', 'categories.html',
-                'author/', '/category', 'tag/']
+    'exclude': [
+        'archives.html',
+        'tags.html',
+        'categories.html',
+        'author/',
+        'category/',
+        'tag/']
 }
+
+# Para publicar, sí usar dependencias en Internet
+USE_REMOTE_SERVICES = True
