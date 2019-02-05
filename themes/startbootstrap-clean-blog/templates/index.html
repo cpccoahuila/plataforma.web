@@ -56,16 +56,10 @@
             <div class="col-lg-8 col-md-10 mx-auto">
                 {% for article in articles %}
                 <div class="post-preview">
-                    {% if article.slug == '2018-10-convocatoria' %}
-                    <a href="{{ SITEURL }}/documentos/2018-10-convocatoria/">
-                        <img class="img-fluid" src="{{ SITEURL }}/documentos/2018-10-convocatoria/convocatoria-secretario-tecnico.jpg" alt="Inscripción a la Terna de Candidatos a la Secretaría Técnica">
-                    </a>
-                    {% else %}
                     <a href="{{ SITEURL }}/{{ article.category }}/{{ article.slug }}/">
                         <h2 class="post-title">{{ article.title }}</h2>
                         <h3 class="post-subtitle">{{ article.summary }}</h3>
                     </a>
-                    {% endif %}
                 </div>
                 <hr>
                 {% else %}
