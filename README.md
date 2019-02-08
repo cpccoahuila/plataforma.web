@@ -1,3 +1,3 @@
 # plataforma.web
 
-Creador de la plataforma web cpccoahuila.org.mx
+Generador del sitio web <www.cpccoahuila.org.mx> hecho en Pelican y programado en Python.
