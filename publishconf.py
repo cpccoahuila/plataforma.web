@@ -65,5 +65,5 @@ SITEMAP = {
         'tag/']
 }
 
-# Para publicar, sí usar dependencias en Internet
+# Usar servicios remotos
 USE_REMOTE_SERVICES = True

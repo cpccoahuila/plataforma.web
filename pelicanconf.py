@@ -80,8 +80,8 @@ DEFAULT_PAGINATION = 9
 DEFAULT_ORPHANS = 2
 #DEFAULT_PAGINATION = False
 
-# Para desarrollo, no hay cargas desde Internet
-USE_REMOTE_SERVICES = False
+# Usar servicios remotos
+USE_REMOTE_SERVICES = True
 
 # Para desarrollo, borrar todo output
 DELETE_OUTPUT_DIRECTORY = True
