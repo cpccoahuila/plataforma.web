@@ -1,0 +1,87 @@
+{% extends "base.html" %}
+
+{% block title %}{{ article.title }} - {{ SITENAME }}{% endblock %}
+
+{% block meta_tags %}
+        <meta name="description" content="{{ article.summary|striptags }}">
+        <meta name="keywords" content="{{ [article.tags|join(', '), article.category]|join(', ') }}">
+        <meta name="author" content="{{ article.author.name }}">
+        <meta itemprop="name" content="{{ article.title }}">
+        <meta itemprop="description" content="{{ article.summary|striptags }}">
+        {% if article.image %}
+        <meta itemprop="image" content="{{ SITEURL }}/{{ article.url }}{{ article.image }}">
+        {% elif article.preview %}
+        <meta itemprop="image" content="{{ SITEURL }}/{{ article.url }}{{ article.preview }}">
+        {% endif %}
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:site" content="{{ SITETWITTER }}">
+        <meta name="twitter:title" content="{{ article.title }}">
+        <meta name="twitter:description" content="{{ article.summary|striptags }}">
+        {% if article.image %}
+        <meta name="twitter:image:src" content="{{ SITEURL }}/{{ article.url }}{{ article.image }}">
+        {% elif article.preview %}
+        <meta name="twitter:image:src" content="{{ SITEURL }}/{{ article.url }}{{ article.preview }}">
+        {% endif %}
+        <meta property="og:title" content="{{ article.title }}">
+        <meta property="og:type" content="article">
+        <meta property="og:url" content="{{ SITEURL }}/{{ article.url }}">
+        {% if article.image %}
+        <meta property="og:image" content="{{ SITEURL }}/{{ article.url }}{{ article.image }}">
+        {% elif article.preview %}
+        <meta property="og:image" content="{{ SITEURL }}/{{ article.url }}{{ article.preview }}">
+        {% endif %}
+        <meta property="og:description" content="{{ article.summary|striptags }}">
+        <meta property="og:site_name" content="{{ SITENAME }}">
+{% endblock %}
+
+{% block content %}
+        <header class="masterHead">
+            <div class="overlay"></div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-md-10 mx-auto">
+                        <div class="post-heading">
+                            <h1>{{ article.title }}</h1>
+                            <p class="subheading">{{ article.summary }}</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <article class="article-post">
+            <div class="container">
+                <script type="application/ld+json">
+                {
+                    "@context": "http://schema.org",
+                    "@type": "Article",
+                    "publisher": {
+                        "@type": "Organization",
+                        "name": "{{ SITENAME }}",
+                        "logo": {
+                            "@type": "ImageObject",
+                            "url": "{{ SITEURL }}/{{ SITELOGO }}"
+                        },
+                        "url": "{{ SITEURL }}"
+                    },
+                    "author": "{{ article.author }}",
+                    "name": "{{ article.title }}",
+                    "headline": "{{ article.title }}",
+                    "description": "{{ article.summary|striptags }}",
+                    "dateCreated": "{{ article.date }}",
+                    "datePublished": "{{ article.date }}",
+                    "dateModified": "{{ article.modified }}",
+                    {% if article.image %}
+                    "image": "{{ SITEURL }}/{{ article.category }}/{{ article.slug }}/{{ article.image }}",
+                    {% elif article.preview %}
+                    "image": "{{ SITEURL }}/{{ article.category }}/{{ article.slug }}/{{ article.preview }}",
+                    {% else %}
+                    "image": "{{ SITEURL }}/{{ SITELOGO }}",
+                    {% endif %}
+                    "url": "{{ SITEURL }}/{{ article.url }}"
+                }
+                </script>
+{{ article.content }}
+                <p class="text-muted">{{ article.date|strftime('%d %B %Y') }}</p>
+            </div>
+        </article>
+{% endblock %}

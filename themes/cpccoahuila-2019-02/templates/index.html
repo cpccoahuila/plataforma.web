@@ -1,0 +1,132 @@
+{% extends "base.html" %}
+
+{% block title %}{{ SITENAME }}{% endblock %}
+
+{% block meta_tags %}
+        {% if output_file == 'index.html' %}
+        <meta name="description" content="{{ SITEDESCRIPTION }}">
+        <meta name="keywords" content="{{ SITEKEYWORDS }}">
+        <meta name="author" content="{{ AUTHOR }}">
+        <meta itemprop="name" content="{{ SITENAME }}">
+        <meta itemprop="description" content="{{ SITEDESCRIPTION }}">
+        <meta itemprop="image" content="{{ SITEURL }}/{{ SITELOGO }}">
+        <meta name="twitter:card" content="summary">
+        <meta name="twitter:site" content="{{ SITETWITTER }}">
+        <meta name="twitter:title" content="{{ SITENAME }}">
+        <meta name="twitter:description" content="{{ SITEDESCRIPTION }}">
+        <meta name="twitter:image:src" content="{{ SITEURL }}/{{ SITELOGO }}">
+        <meta property="og:title" content="{{ SITENAME }}">
+        <meta property="og:type" content="summary">
+        <meta property="og:url" content="{{ SITEURL }}/{{ output_file }}">
+        <meta property="og:image" content="{{ SITEURL }}/{{ SITELOGO }}">
+        <meta property="og:description" content="{{ SITEDESCRIPTION }}">
+        <meta property="og:site_name" content="{{ SITENAME }}">
+        {% else %}
+        <meta name="description" content="Índice de publicaciones.">
+        <meta name="keywords" content="">
+        <meta name="author" content="{{ AUTHOR }}">
+        <meta itemprop="name" content="Índice - {{ SITENAME }}">
+        <meta itemprop="description" content="Índice de publicaciones.">
+        <meta itemprop="image" content="{{ SITEURL }}/{{ SITELOGO }}">
+        <meta name="twitter:card" content="summary">
+        <meta name="twitter:site" content="{{ SITETWITTER }}">
+        <meta name="twitter:title" content="Índice - {{ SITENAME }}">
+        <meta name="twitter:description" content="Índice de publicaciones.">
+        <meta name="twitter:image:src" content="{{ SITEURL }}/{{ SITELOGO }}">
+        <meta property="og:title" content="Índice - {{ SITENAME }}">
+        <meta property="og:type" content="summary">
+        <meta property="og:url" content="{{ SITEURL }}/{{ output_file }}">
+        <meta property="og:image" content="{{ SITEURL }}/{{ SITELOGO }}">
+        <meta property="og:description" content="Índice de publicaciones.">
+        <meta property="og:site_name" content="{{ SITENAME }}">
+        {% endif %}
+{% endblock %}
+
+{% block content %}
+        <header class="masterHead">
+            <div class="overlay"></div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-md-10 mx-auto">
+                        <div class="post-heading">
+                            {% if output_file == 'index.html' %}
+                            <h1>{{ SITENAME }}</h1>
+                            <p class="subheading">
+                                El CPC tiene las facultades de proponer políticas anticorrupción,
+                                metodologías e indicadores de evaluación y, sobretodo,
+                                vigilar el funcionamiento del Sistema Estatal Anticorrupción.
+                                Es por esto que debe trabajar en conjunto con el Comité Coordinador y
+                                el Secretario Técnico para la integración del componente ciudadano en
+                                la conformación de los informes, recomendaciones y políticas públicas
+                                que se consideren necesarias para el buen funcionamiento del Sistema.
+                            </p>
+                            {% else %}
+                            {%   if self.content_title() %}
+                            <h1>{% block content_title %}{% endblock %}</h1>
+                            {%   else %}
+                            <h1>{{ SITENAME }}</h1>
+                            {%   endif %}
+                            {% endif %}
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+        {% if output_file == 'index.html' %}
+        {% include 'start-page-cpc.html' %}
+        {% endif %}
+        {% if articles %}
+        <section id="indice">
+            <div class="container">
+                <!-- Indice -->
+                {% for article in articles_page.object_list %}
+                <div class="post-preview">
+                    <a href="{{ SITEURL }}/{{ article.category }}/{{ article.slug }}/">
+                        <h3 class="post-title">{{ article.title }}</h3>
+                        <p class="post-summary">{{ article.summary }}</p>
+                    </a>
+                </div>
+                <hr>
+                {% endfor %}
+                {% if articles_page %}
+                <!-- Paginacion -->
+                <nav id="paginacion">
+                    <ul class="pagination justify-content-center">
+                        {% if articles_page.has_previous() %}
+                        <li class="page-item">
+                            {% if articles_page.previous_page_number() == 1 %}
+                            <a class="page-link" aria-label="Previous" href="{{ SITEURL }}/{{ page_name }}.html">
+                                <span aria-hidden="true">&laquo;</span>
+                                <span class="sr-only">Anterior</span>
+                            </a>
+                            {% else %}
+                            <a class="page-link" aria-label="Previous" href="{{ SITEURL }}/{{ page_name }}{{ articles_page.previous_page_number() }}.html">
+                                &#60;&#60;
+                            </a>
+                            {% endif %}
+                        </li>
+                        {% endif %}
+                        {% for page_number in range(1, 1 + articles_paginator.num_pages) %}
+                        <li class="page-item">
+                            <a class="page-link" href="{{ SITEURL }}/{{ page_name }}{{ page_number if page_number > 1 else '' }}.html">
+                                {{ page_number }}
+                            </a>
+                        </li>
+                        {% endfor %}
+                        {% if articles_page.has_next() %}
+                        <li class="page-item">
+                            <a class="page-link" aria-label="Next" href="{{ SITEURL }}/{{ page_name }}{{ articles_page.next_page_number() }}.html">
+                                <span aria-hidden="true">&raquo;</span>
+                                <span class="sr-only">Siguiente</span>
+                            </a>
+                        </li>
+                        {% endif %}
+                    </ul>
+                </nav>
+                {% endif %}
+            </div>
+        </section>
+        {% else %}
+        <p>No hay contenido.</p>
+        {% endif %}
+{% endblock %}
