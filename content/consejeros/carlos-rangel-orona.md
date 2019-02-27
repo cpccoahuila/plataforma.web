@@ -27,3 +27,7 @@ Licenciado en Derecho por la Facultad de Derecho de la Universidad Autónoma de 
 * Miembro del Consejo Ciudadano de la Junta Local de Conciliación y arbitraje de Torreón Coahuila.
 * Titular de la Notaría Pública Número 40 del Distrito Judicial de Torreón.
 * Consejero del Instituto Municipal de Planeación de Torreón (IMPLAN).
+
+### Contacto
+
+<carlos.rangel@cpccoahuila.org.mx>

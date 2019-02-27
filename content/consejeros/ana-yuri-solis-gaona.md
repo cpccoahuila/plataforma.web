@@ -25,3 +25,7 @@ Egresada de la Facultad de Economía con maestría en Administración Pública p
 * 2010 Asesora. Estudio sobre el Desarrollo de la Región Noreste en la Consultoría Demoanalítica, S.C.
 * 2010 - 2013 Asesora en Indicadores de Competitividad para México en el Centro de Estudios para la Competitividad. Partner lnstitute del IMD - WCC en México.
 * 2001 - 2004 Jefa de Proyectos en Planeación y Operación en el Instituto Coahuilense de las Mujeres.
+
+### Contacto
+
+<asolis@cpccoahuila.org.mx>

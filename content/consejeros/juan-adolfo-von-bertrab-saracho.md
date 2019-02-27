@@ -38,3 +38,7 @@ Egresado de la Universidad Iberoamericana Plantel Laguna como Ingeniero Mecánic
 * Comité Ciudadano de la Procuraduría General de la Republica Coahuila,
 * Comité Servicio Policial de Carrera y en el
 * Fideicomiso de Seguridad para la Vivienda de los Policías del Municipio de Torreón.
+
+### Contacto
+
+<adolfo.von.bertrab@cpccoahuila.org.mx>

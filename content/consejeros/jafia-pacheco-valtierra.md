@@ -36,3 +36,7 @@ Egresada de la Facultad de Jurisprudencia con maestría en Ciencias Jurídicas c
 * Suplente adjunto de la materia Evolución histórica de derecho individual del trabajo. Tetramestre comprendido de septiembre a diciembre de 2013, en la especialidad del Derecho del Trabajo en la Universidad Autónoma del Noreste, Campus Saltillo, Coahuila.
 * Titular de la materia de Escatología en Instituto de Capacitación Bíblica Monte Tabor Integridad para Ministerios. Trimestres comprendidos de diciembre a febrero, de los años 2004, 2005 y 2006, Ciudad de México.
 * Titular de las materias, Derecho Individual del Trabajo y Derecho Colectivo del Trabajo en la Universidad La Salle, en la ciudad de Saltillo, Coahuila.
+
+### Contacto
+
+<jafia.pacheco@cpccoahuila.org.mx>

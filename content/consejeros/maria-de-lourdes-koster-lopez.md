@@ -31,3 +31,7 @@ Egresada de la Facultad de Ciencias de la Comunicación de la UAdeC en Saltillo,
 * Temas políticos, electorales, de finanzas públicas, auditoría y rendición de cuentas.
 * Además de mostrar interés en temas ambientales y de protección a los derechos de las y los niños; por los cuales
 * Recibió el Premio Estatal de Periodismo en los años de 1999 y 2000.
+
+### Contacto
+
+<lourdes.de.koster@cpccoahuila.org.mx>

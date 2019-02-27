@@ -50,8 +50,11 @@
                     <div class="col-lg-8 col-md-10 mx-auto">
                         <div class="post-heading">
                             {% if output_file == 'index.html' %}
-                            <h1>{{ SITENAME }}</h1>
-                            <p class="subheading">
+                            <div class="text-center">
+                                <img src="{{ SITEURL }}/theme/images/cpc-200x200.png" alt="CPC">
+                                <h1 style="display: none;">{{ SITENAME }}</h1>
+                            </div>
+                            <p class="subheading text-justify">
                                 El CPC tiene las facultades de proponer políticas anticorrupción,
                                 metodologías e indicadores de evaluación y, sobretodo,
                                 vigilar el funcionamiento del Sistema Estatal Anticorrupción.
