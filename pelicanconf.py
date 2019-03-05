@@ -81,7 +81,7 @@ DEFAULT_ORPHANS = 2
 #DEFAULT_PAGINATION = False
 
 # Usar servicios remotos
-USE_REMOTE_SERVICES = True
+USE_REMOTE_SERVICES = False
 
 # Para desarrollo, borrar todo output
 DELETE_OUTPUT_DIRECTORY = True
