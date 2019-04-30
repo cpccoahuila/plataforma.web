@@ -16,15 +16,34 @@ AUTHOR = 'CPC Coahuila'
 PATH = 'content'
 
 # Directorios que tienen las publicaciones
-ARTICLE_PATHS = ['comunicados', 'documentos']
+ARTICLE_PATHS = [
+    'comunicados',
+    'documentos',
+    'multimedia',
+    ]
 
 # Directorios que tienen páginas, no publicaciones
-PAGE_PATHS = ['3de3', 'consejeros', 'contacto', 'transparencia']
+PAGE_PATHS = [
+    '3de3',
+    'consejeros',
+    'contacto',
+    'transparencia',
+    ]
 
 # Directorios y archivos que son fijos
 # Agregue también los directorios con archivos para las artículos
-STATIC_PATHS = ['CNAME', 'favicon.ico', 'LICENSE', 'README.md', 'robots.txt',
-                '3de3', 'consejeros', 'comunicados', 'documentos']
+STATIC_PATHS = [
+    'CNAME',
+    'favicon.ico',
+    'LICENSE',
+    'README.md',
+    'robots.txt',
+    '3de3',
+    'consejeros',
+    'comunicados',
+    'documentos',
+    'multimedia',
+    ]
 
 # Usar el nombre del directorio como la categoría
 USE_FOLDER_AS_CATEGORY = True
@@ -42,30 +61,35 @@ THEME = 'themes/cpccoahuila-2019-02'
 #THEME = 'themes/startbootstrap-clean-blog'
 
 # Encabezados para los autores
-AUTHORS_TITLES = { 'cc': 'Comité Coordinador',
-                   'comunicados': 'Comunicados',
-                   'cpc': 'Consejo de Participación Ciudadana',
-                   'general': 'General',
-                   'secretaria-ejecutiva': 'Secretaría Ejecutiva', }
+AUTHORS_TITLES = {
+    'cc': 'Comité Coordinador',
+    'comunicados': 'Comunicados',
+    'cpc': 'Consejo de Participación Ciudadana',
+    'general': 'General',
+    'secretaria-ejecutiva': 'Secretaría Ejecutiva',
+    }
 
 # Encabezados para las categorías
 CATEGORIES_TITLES = {
     '3de3': '3 de 3',
     'comunicados': 'Comunicados',
     'contacto': 'Contacto',
-    'documentos': 'Documentos', }
+    'documentos': 'Documentos',
+    }
 
 # Encabezados para las etiquetas
-TAGS_TITLES = {'comunicados': 'Comunicados de Prensa',
-               'capacitaciones': 'Capacitaciones',
-               'comision-ejecutiva': 'Comisión Ejecutiva',
-               'comite-coordinador': 'Comité Coordinador',
-               'consejo-de-participacion-ciudadana': 'Consejo de Participación Ciudadana',
-               'organo-de-gobierno': 'Órgano de Gobierno',
-               'presentaciones': 'Presentaciones',
-               'reuniones': 'Reuniones',
-               'secretaria-ejecutiva': 'Secretaría Ejecutiva',
-               'sesiones': 'Sesiones', }
+TAGS_TITLES = {
+    'comunicados': 'Comunicados de Prensa',
+    'capacitaciones': 'Capacitaciones',
+    'comision-ejecutiva': 'Comisión Ejecutiva',
+    'comite-coordinador': 'Comité Coordinador',
+    'consejo-de-participacion-ciudadana': 'Consejo de Participación Ciudadana',
+    'organo-de-gobierno': 'Órgano de Gobierno',
+    'presentaciones': 'Presentaciones',
+    'reuniones': 'Reuniones',
+    'secretaria-ejecutiva': 'Secretaría Ejecutiva',
+    'sesiones': 'Sesiones',
+    }
 
 # Lenguaje y zona horaria
 DEFAULT_LANG = 'es'
