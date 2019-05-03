@@ -1,7 +1,7 @@
 Title: 4° Congreso Internacional CANACINTRA
 Slug: 2019-04-01-cuarto-congreso-internacional-canacintra
 Summary: Participamos en el 4º Congreso Internacional CANACINTRA.
-Tags: tags
+Tags: Consejo de Participación Ciudadana
 Date: 2019-04-12 13:40
 Modified: 2019-04-12 13:40
 Image: preview.jpg
