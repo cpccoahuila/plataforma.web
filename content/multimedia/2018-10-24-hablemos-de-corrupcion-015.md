@@ -1,4 +1,4 @@
-Title: Hablemos de Corrupción, programa 15
+Title: Hablemos de Corrupción 15
 Slug: 2018-10-24-hablemos-de-corrupcion-015
 Summary: Programa de radio.
 Tags: audios

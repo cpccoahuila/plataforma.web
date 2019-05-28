@@ -1,4 +1,4 @@
-Title: Hablemos de Corrupción, programa 17
+Title: Hablemos de Corrupción 17
 Slug: 2018-11-07-hablemos-de-corrupcion-017
 Summary: Programa de radio.
 Tags: audios

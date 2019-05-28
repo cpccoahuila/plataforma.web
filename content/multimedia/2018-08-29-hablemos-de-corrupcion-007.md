@@ -1,4 +1,4 @@
-Title: Hablemos de Corrupción, programa 7
+Title: Hablemos de Corrupción 7
 Slug: 2018-08-29-hablemos-de-corrupcion-007
 Summary: Programa de radio.
 Tags: audios

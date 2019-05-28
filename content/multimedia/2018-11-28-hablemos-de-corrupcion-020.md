@@ -1,4 +1,4 @@
-Title: Hablemos de Corrupción, programa 20
+Title: Hablemos de Corrupción 20
 Slug: 2018-11-28-hablemos-de-corrupcion-020
 Summary: Programa de radio.
 Tags: audios

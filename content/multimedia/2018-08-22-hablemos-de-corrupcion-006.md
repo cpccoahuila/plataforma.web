@@ -1,4 +1,4 @@
-Title: Hablemos de Corrupción, programa 6
+Title: Hablemos de Corrupción 6
 Slug: 2018-08-22-hablemos-de-corrupcion-006
 Summary: Programa de radio.
 Tags: audios

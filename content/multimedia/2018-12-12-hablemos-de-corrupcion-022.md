@@ -1,4 +1,4 @@
-Title: Hablemos de Corrupción, programa 22
+Title: Hablemos de Corrupción 22
 Slug: 2018-12-12-hablemos-de-corrupcion-022
 Summary: Programa de radio.
 Tags: audios

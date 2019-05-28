@@ -1,4 +1,4 @@
-Title: Hablemos de Corrupción, programa 1
+Title: Hablemos de Corrupción 1
 Slug: 2018-07-18-hablemos-de-corrupcion-001
 Summary: Programa de radio.
 Tags: audios

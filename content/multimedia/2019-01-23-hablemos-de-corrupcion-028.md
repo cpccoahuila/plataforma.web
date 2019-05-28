@@ -1,4 +1,4 @@
-Title: Hablemos de Corrupción, programa 28
+Title: Hablemos de Corrupción 28
 Slug: 2019-01-23-hablemos-de-corrupcion-028
 Summary: Programa de radio.
 Tags: audios

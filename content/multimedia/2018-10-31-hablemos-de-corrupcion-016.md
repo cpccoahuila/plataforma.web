@@ -1,4 +1,4 @@
-Title: Hablemos de Corrupción, programa 16
+Title: Hablemos de Corrupción 16
 Slug: 2018-10-31-hablemos-de-corrupcion-016
 Summary: Programa de radio.
 Tags: audios

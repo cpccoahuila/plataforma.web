@@ -1,4 +1,4 @@
-Title: Hablemos de Corrupción, programa 21
+Title: Hablemos de Corrupción 21
 Slug: 2018-12-05-hablemos-de-corrupcion-021
 Summary: Programa de radio.
 Tags: audios

@@ -1,4 +1,4 @@
-Title: Hablemos de Corrupción, programa 2
+Title: Hablemos de Corrupción 2
 Slug: 2018-07-25-hablemos-de-corrupcion-002
 Summary: Programa de radio.
 Tags: audios

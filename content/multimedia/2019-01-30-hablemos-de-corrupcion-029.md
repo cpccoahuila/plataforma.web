@@ -1,4 +1,4 @@
-Title: Hablemos de Corrupción, programa 29
+Title: Hablemos de Corrupción 29
 Slug: 2019-01-29-hablemos-de-corrupcion-029
 Summary: Programa de radio.
 Tags: audios

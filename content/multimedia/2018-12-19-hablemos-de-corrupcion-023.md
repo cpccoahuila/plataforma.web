@@ -1,4 +1,4 @@
-Title: Hablemos de Corrupción, programa 23
+Title: Hablemos de Corrupción 23
 Slug: 2018-12-19-hablemos-de-corrupcion-023
 Summary: Programa de radio.
 Tags: audios

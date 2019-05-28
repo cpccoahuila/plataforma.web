@@ -1,4 +1,4 @@
-Title: Hablemos de Corrupción, programa 13
+Title: Hablemos de Corrupción 13
 Slug: 2018-10-10-hablemos-de-corrupcion-013
 Summary: Programa de radio.
 Tags: audios

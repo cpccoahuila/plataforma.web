@@ -1,4 +1,4 @@
-Title: Hablemos de Corrupción, programa 19
+Title: Hablemos de Corrupción 19
 Slug: 2018-11-21-hablemos-de-corrupcion-019
 Summary: Programa de radio.
 Tags: audios

@@ -1,4 +1,4 @@
-Title: Hablemos de Corrupción, programa 25
+Title: Hablemos de Corrupción 25
 Slug: 2019-01-02-hablemos-de-corrupcion-025
 Summary: Programa de radio.
 Tags: audios

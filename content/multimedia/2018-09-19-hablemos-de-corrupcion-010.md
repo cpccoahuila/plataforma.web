@@ -1,4 +1,4 @@
-Title: Hablemos de Corrupción, programa 10
+Title: Hablemos de Corrupción 10
 Slug: 2018-09-19-hablemos-de-corrupcion-010
 Summary: Programa de radio.
 Tags: audios

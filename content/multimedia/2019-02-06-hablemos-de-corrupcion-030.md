@@ -1,4 +1,4 @@
-Title: Hablemos de Corrupción, programa 30
+Title: Hablemos de Corrupción 30
 Slug: 2019-02-06-hablemos-de-corrupcion-030
 Summary: Programa de radio.
 Tags: audios

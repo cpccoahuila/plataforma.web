@@ -1,4 +1,4 @@
-Title: Hablemos de Corrupción, programa 26
+Title: Hablemos de Corrupción 26
 Slug: 2019-01-09-hablemos-de-corrupcion-026
 Summary: Programa de radio.
 Tags: audios

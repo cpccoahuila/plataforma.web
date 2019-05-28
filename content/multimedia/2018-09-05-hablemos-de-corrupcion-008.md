@@ -1,4 +1,4 @@
-Title: Hablemos de Corrupción, programa 8
+Title: Hablemos de Corrupción 8
 Slug: 2018-09-05-hablemos-de-corrupcion-008
 Summary: Programa de radio.
 Tags: audios

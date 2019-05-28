@@ -1,4 +1,4 @@
-Title: Hablemos de Corrupción, programa 24
+Title: Hablemos de Corrupción 24
 Slug: 2018-12-26-hablemos-de-corrupcion-024
 Summary: Programa de radio.
 Tags: audios
