@@ -3,7 +3,7 @@
 {% block title %}Categorías - {{ SITENAME }}{% endblock %}
 
 {% block content %}
-    <header class="masthead" style="background-image: url('{{ SITEURL }}/theme/images/comun.jpg')">
+    <header class="masthead" style="background-image: url('/theme/images/comun.jpg')">
         <div class="overlay"></div>
         <div class="container">
             <div class="row">
@@ -20,7 +20,7 @@
             <div class="col-lg-8 col-md-10 mx-auto">
                 <ul>
                     {% for category, articles in categories %}
-                    <li><a href="{{ SITEURL }}/{{ category.url }}">{{ category }}</a></li>
+                    <li><a href="/{{ category.url }}">{{ category }}</a></li>
                     {% endfor %}
                 </ul>
             </div>

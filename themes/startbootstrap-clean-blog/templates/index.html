@@ -12,7 +12,7 @@
 
 {% block content %}
 {% if output_file == 'index.html' %}
-    <header class="masthead" style="background-image: url('{{ SITEURL }}/theme/images/comun.jpg')">
+    <header class="masthead" style="background-image: url('/theme/images/comun.jpg')">
         <div class="overlay"></div>
         <div class="container">
             <div class="row">
@@ -32,7 +32,7 @@
         </div>
     </header>
 {% else %}
-    <header class="masthead" style="background-image: url('{{ SITEURL }}/theme/images/comun.jpg')">
+    <header class="masthead" style="background-image: url('/theme/images/comun.jpg')">
         <div class="overlay"></div>
         <div class="container">
             <div class="row">
@@ -56,7 +56,7 @@
             <div class="col-lg-8 col-md-10 mx-auto">
                 {% for article in articles %}
                 <div class="post-preview">
-                    <a href="{{ SITEURL }}/{{ article.category }}/{{ article.slug }}/">
+                    <a href="/{{ article.category }}/{{ article.slug }}/">
                         <h2 class="post-title">{{ article.title }}</h2>
                         <h3 class="post-subtitle">{{ article.summary }}</h3>
                     </a>

@@ -3,7 +3,7 @@
 {% block title %}Etiquetas - {{ SITENAME }}{% endblock %}
 
 {% block content %}
-    <header class="masthead" style="background-image: url('{{ SITEURL }}/theme/images/comun.jpg')">
+    <header class="masthead" style="background-image: url('/theme/images/comun.jpg')">
         <div class="overlay"></div>
         <div class="container">
             <div class="row">
@@ -20,7 +20,7 @@
             <div class="col-lg-8 col-md-10 mx-auto">
                 <ul>
                     {% for tag, articles in tags|sort %}
-                    <li><a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a> ({{ articles|count }})</li>
+                    <li><a href="/{{ tag.url }}">{{ tag }}</a> ({{ articles|count }})</li>
                     {% endfor %}
                 </ul>
             </div>

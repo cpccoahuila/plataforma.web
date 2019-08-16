@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 # Sitio web
 SITENAME = 'Consejo de Participación Ciudadana del Sistema Anticorrupción del Estado de Coahuila de Zaragoza'
-SITEURL = 'http://www.cpccoahuila.org.mx'
+SITEURL = 'https://www.cpccoahuila.org.mx'
 SITELOGO = 'imagenes/coahuila.png'
 SITEDESCRIPTION = ''
 SITETWITTER = '@cpccoahuila'
