@@ -27,6 +27,7 @@ PAGE_PATHS = [
     '3de3',
     'consejeros',
     'contacto',
+    'licencias',
     'transparencia',
     ]
 
