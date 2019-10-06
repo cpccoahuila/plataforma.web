@@ -2,14 +2,14 @@ Title: Ana Yuri Solís Gaona
 Slug: ana-yuri-solis-gaona
 Summary: Consejera Presidente.
 Date: 2019-02-27 09:42
-Modified: 2019-02-27 09:42
+Modified: 2019-10-05 17:15
 
 
 <img class="img-fluid" src="cpc-aysg-200x200.jpg" alt="Ana Yuri Solís Gaona">
 
 # Ana Yuri Solís Gaona
 
-**Consejera Presidente del Consejo de Participación Ciudadana**
+**Consejera del Consejo de Participación Ciudadana**
 
 ### Formación Académica
 

@@ -2,14 +2,14 @@ Title: María de Lourdes Koster López
 Slug: maria-de-lourdes-koster-lopez
 Summary: Consejera.
 Date: 2019-02-27 09:42
-Modified: 2019-02-27 09:42
+Modified: 2019-10-06 15:08
 
 
 <img class="img-fluid" src="cpc-mlkl-200x200.jpg" alt="María de Lourdes Koster López">
 
 # María de Lourdes Koster López
 
-**Consejera del Consejo de Participación Ciudadana**
+**Presidenta Consejera del Consejo de Participación Ciudadana**
 
 ### Formación Académica
 
