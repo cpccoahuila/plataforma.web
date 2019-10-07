@@ -15,7 +15,7 @@ Modified: 2019-10-06 15:12
 
 * Doctor en Ciencias Aplicadas por la Universidad de los Andes, Venezuela.
 * Maestría en Sistemología Interpretativa por la Universidad de los Andes, Venezuela.
-* Maestría en Educación por la Universidad Autónoma de la Laguna, México.
+* Maestría en Educación por la Universidad Autónoma de la Laguna.
 * Maestría en Administración por la Universidad Autónoma de la Laguna.
 * Licenciatura en Administración de Recursos Humanos por la Universidad Autónoma de la Laguna.
 
