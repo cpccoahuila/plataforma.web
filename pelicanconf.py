@@ -8,6 +8,7 @@ SITEURL = 'https://www.cpccoahuila.org.mx'
 SITELOGO = 'imagenes/coahuila.png'
 SITEDESCRIPTION = 'El CPC tiene las facultades de proponer políticas anticorrupción, metodologías e indicadores de evaluación y, sobretodo, vigilar el funcionamiento del Sistema Estatal Anticorrupción. Es por esto que debe trabajar en conjunto con el Comité Coordinador y el Secretario Técnico para la integración del componente ciudadano en la conformación de los informes, recomendaciones y políticas públicas que se consideren necesarias para el buen funcionamiento del Sistema.'
 SITETWITTER = '@cpccoahuila'
+SITEKEYWORDS = 'CPC, Coahuila, Ciudadana, Anticorrupción, Sistema'
 
 # Autor por defecto
 AUTHOR = 'CPC Coahuila'
