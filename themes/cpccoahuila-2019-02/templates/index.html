@@ -11,26 +11,26 @@
         <meta name="twitter:site" content="{{ SITETWITTER }}">
         <meta name="twitter:title" content="{{ SITENAME }}">
         <meta name="twitter:description" content="{{ SITEDESCRIPTION }}">
-        <meta name="twitter:image:src" content="/{{ SITELOGO }}">
+        <meta name="twitter:image:src" content="{{ SITEURL }}/{{ SITELOGO }}">
         <meta property="og:title" content="{{ SITENAME }}">
         <meta property="og:type" content="summary">
-        <meta property="og:url" content="/{{ output_file }}">
-        <meta property="og:image" content="/{{ SITELOGO }}">
+        <meta property="og:url" content="{{ SITEURL }}">
+        <meta property="og:image" content="{{ SITEURL }}/{{ SITELOGO }}">
         <meta property="og:description" content="{{ SITEDESCRIPTION }}">
         <meta property="og:site_name" content="{{ SITENAME }}">
         {% else %}
         <meta name="description" content="Índice de publicaciones.">
-        <meta name="keywords" content="">
+        <meta name="keywords" content="{{ SITEKEYWORDS }}">
         <meta name="author" content="{{ AUTHOR }}">
         <meta name="twitter:card" content="summary">
         <meta name="twitter:site" content="{{ SITETWITTER }}">
         <meta name="twitter:title" content="Índice - {{ SITENAME }}">
         <meta name="twitter:description" content="Índice de publicaciones.">
-        <meta name="twitter:image:src" content="/{{ SITELOGO }}">
+        <meta name="twitter:image:src" content="{{ SITEURL }}/{{ SITELOGO }}">
         <meta property="og:title" content="Índice - {{ SITENAME }}">
         <meta property="og:type" content="summary">
-        <meta property="og:url" content="/{{ output_file }}">
-        <meta property="og:image" content="/{{ SITELOGO }}">
+        <meta property="og:url" content="{{ SITEURL }}/{{ output_file }}">
+        <meta property="og:image" content="{{ SITEURL }}/{{ SITELOGO }}">
         <meta property="og:description" content="Índice de publicaciones.">
         <meta property="og:site_name" content="{{ SITENAME }}">
         {% endif %}
