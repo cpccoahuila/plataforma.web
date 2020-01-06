@@ -6,6 +6,8 @@ Date: 2019-12-19 13:22
 Modified: 2019-12-19 13:22
 
 
+<img class="img-fluid" src="cpc-coahuila-plan-de-trabajo-2019-2020-banner.jpg" alt="Programa de Trabajo 2019-2020">
+
 ### Descargar
 
 * [Programa de Trabajo 2019-2020 Consejo de Participación Ciudadana - PDF](cpc-coahuila-plan-de-trabajo-2019-2020.pdf)
