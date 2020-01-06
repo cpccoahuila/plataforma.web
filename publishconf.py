@@ -11,6 +11,7 @@ sys.path.append(os.curdir)
 from pelicanconf import *
 
 # Feed generation
+FEED_DOMAIN = SITEURL
 FEED_ALL_ATOM = None
 FEED_ALL_RSS = 'feeds/all.rss.xml'
 AUTHOR_FEED_ATOM = None
@@ -26,16 +27,15 @@ TRANSLATION_FEED_RSS = None
 FEED_MAX_ITEMS = 12
 RSS_FEED_SUMMARY_ONLY = True
 
-# Para publicar, los URLs son absolutos
+# Para publicar
 RELATIVE_URLS = False
-LOAD_CONTENT_CACHE = False
-DELETE_OUTPUT_DIRECTORY = False
+LOAD_CONTENT_CACHE = True
+DELETE_OUTPUT_DIRECTORY = True
 
 # Paginacion
 DEFAULT_PAGINATION = True
 DEFAULT_PAGINATION = 9
 DEFAULT_ORPHANS = 2
-#DEFAULT_PAGINATION = False
 
 # Path to the folder containing the plugins
 PLUGIN_PATHS = ['plugins']
