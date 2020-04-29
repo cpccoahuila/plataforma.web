@@ -20,16 +20,20 @@ P R E S E N T E:
 Martes, 21 de abril de 2020.- La Organización Mundial de la Salud (OMS), el once de
 marzo del año en curso, declaró que la enfermedad COVID-19 había alcanzado el nivel de
 pandemia mundial.
+
 De ahí la relevancia del respeto al derecho humano a garantizar que todas las personas
 disfruten del acceso a la salud y obligar a los gobiernos a adoptar medidas que atiendan
 esta exigencia ciudadana.
+
 Por lo anterior, se reconoce todo el esfuerzo realizado por los gobiernos de los Estados
 firmantes para salvaguardar a sus habitantes, al implementar acciones en común de
 cuidado, protección y contención de la enfermedad por el COVID-19.
+
 En este contexto, la participación de las y los ciudadanos es sustancial y necesaria para
 la toma de decisiones dentro del sector público de nuestro país, con la seguridad de ejercer
 libremente los derechos humanos reconocidos en la legislación nacional e internacional,
 como el de acceso a la información pública.
+
 Ante lo cual y en acuerdo unánime de los Comités y Consejo de Participación Ciudadana
 de Coahuila, Nuevo León y Tamaulipas hacemos un atento llamado a los gobiernos de los
 estados de Coahuila, Nuevo León y Tamaulipas, a fin de transparentar la información
