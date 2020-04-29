@@ -1,4 +1,4 @@
-Title: Comunicado Norte CPC Coahuila, Nuevo León y Tamaulipas
+Title: Comunicado Norte CPC Coahuila, Nuevo León y Tamaulipas 22 de abril de 2020
 Slug:2020-04-22-comunicado-norte-cpc-coahuila-nuevo-leon-tamaulipas
 Summary: Comunicado Norte CPC
 Tags: Consejo de Participación Ciudadana
