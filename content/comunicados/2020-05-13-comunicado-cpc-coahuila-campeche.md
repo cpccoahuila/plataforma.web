@@ -1,6 +1,6 @@
-Title: Comunicado Norte CPC Coahuila, Nuevo León y Tamaulipas 13 de mayo de 2020
-Slug:2020-05-13-comunicado-norte-cpc-coahuila-nuevo-leon-tamaulipas
-Summary: Comunicado Norte CPC
+Title: Comunicado CPC Coahuila y Campeche 13 de mayo de 2020
+Slug:2020-05-13-comunicado-cpc-coahuila-campeche
+Summary: Comunicado CPC
 Tags: Consejo de Participación Ciudadana
 Date: 2020-05-13 14:00
 Modified: 2020-05-13 14:30
@@ -8,7 +8,7 @@ Image: preview.jpg
 
 
 
-* [Comunicado Norte CPC Coahuila, Nuevo León y Tamaulipas - PDF](comunicado-norte-cpc-coahuila-nuevo-leon-tamaulipas.pdf)}
+* [Comunicado CPC Coahuila y Campeche - PDF](comunicado-cpc-coahuila-campeche.pdf)
 
 **Primera Reunión de integrantes del Comité Ciudadano Anticorrupción de Campeche y el Consejo de Participación Ciudadana del Sistema Anticorrupción del Estado de Coahuila de Zaragoza.**
 
