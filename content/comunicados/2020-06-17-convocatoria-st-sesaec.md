@@ -1,4 +1,4 @@
-Title: Convocatoria Secretario Téncico
+Title: Convocatoria Secretario Técnico
 Slug:2020-06-17-convocatoria-st-sesaec
 Summary: Convocatoria Secretario Téncico.
 Tags: Consejo de Participación Ciudadana
