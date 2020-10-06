@@ -9,7 +9,7 @@ Modified: 2019-02-27 09:42
 
 # Juan Adolfo Von Bertrab Saracho
 
-**Consejero del Consejo de Participación Ciudadana**
+**Presidente Consejero del Consejo de Participación Ciudadana**
 
 ### Formación Académica
 

@@ -7,7 +7,6 @@ Modified: 2019-10-06 15:10
 
 ### Correos electrónicos
 
-* **María de Lourdes de Koster López:** <lourdes.de.koster@cpccoahuila.org.mx>
 * **Juan Adolfo Von Bertrab Saracho:** <adolfo.von.bertrab@cpccoahuila.org.mx>
 * **Carlos Rangel Orona:** <carlos.rangel@cpccoahuila.org.mx>
 * **Jafia Pacheco Valtierra:** <jafia.pacheco@cpccoahuila.org.mx>
