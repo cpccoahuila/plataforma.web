@@ -24,14 +24,14 @@ _________________________
 ### Sesiones 2021
 
 
-* [<i class="bi bi-camera-reels"style="font-size: 2rem; color: red;"></i>]() <i class="bi bi-file-text " style="font-size: 2rem; color: gray;"></i> Pendiente--
+* [<i class="bi bi-camera-reels"style="font-size: 2rem; color: red;"></i>](https://youtu.be/NQtOQaIAe5I) [<i class="bi bi-file-text " style="font-size: 2rem; color: gray;"></i>](orden-enero.pdf) - Sesión 29 de Enero
 
 _________________________
 
 ### Sesiones 2020
 
 
-* [<i class="bi bi-camera-reels"style="font-size: 2rem; color: red;"></i>](https://fb.watch/39m084Dv9c/) <i class="bi bi-file-text " style="font-size: 2rem; color: gray;"></i> - Sesión 20 de Enero
+* [<i class="bi bi-camera-reels"style="font-size: 2rem; color: red;"></i>](https://fb.watch/39m084Dv9c/)[<i class="bi bi-file-text " style="font-size: 2rem; color: gray;"></i>]- Sesión 20 de Enero
 
 
 * [<i class="bi bi-camera-reels"style="font-size: 2rem; color: red;"></i>](https://fb.watch/39mcBC97ex/) <i class="bi bi-file-text " style="font-size: 2rem; color: gray;"></i> - Sesión 20 de Febrero
