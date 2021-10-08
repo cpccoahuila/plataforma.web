@@ -29,7 +29,7 @@ _________________________
 ### Sesiones 2021
 
 
-* [<i class="bi bi-camera-reels cam"></i>](https://fb.watch/8w7erX9_rZ/) [<i class="bi bi-file-text acta "></i>](#) Primera Sesión Ordinaria del Consejo de Participación Ciudadana
+* [<i class="bi bi-camera-reels cam"></i>](https://fb.watch/8w7erX9_rZ/) [<i class="bi bi-file-text acta "></i>](#) Sesión Ordinaria - 5 de octubre
 
 _________________________
 
