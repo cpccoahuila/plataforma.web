@@ -1,6 +1,6 @@
 Title: Carlos Rangel Orona
 Slug: carlos-rangel-orona
-Summary: Consejero.
+Summary: Consejero Presidente.
 Date: 2019-02-27 09:42
 Modified: 2019-02-27 09:42
 
@@ -9,7 +9,7 @@ Modified: 2019-02-27 09:42
 
 # Carlos Rangel Orona
 
-**Consejero del Consejo de Participación Ciudadana**
+**Presidente Consejero del Consejo de Participación Ciudadana**
 
 ### Formación Académica y Trayectoria
 
