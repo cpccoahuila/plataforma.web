@@ -28,6 +28,14 @@ Auxiliar, Contralor, Asistente de Gerente Regional, Subgerente de Control y Subg
 Gerencia y Agente de ventas.
 * MUNICIPIO DE ACUÑA, COAH
 Jefe de Ingresos y Coordinador de la Unidad Catastral.
+* SERVICIOS DE SALUD DE COAHUILA
+Subdirector de Finanzas, responsable de la Contabilidad General, Ingresos Propios, Tesorería y
+Presupuestos.
+* UNIVERSIDAD AUTONOMA DE COAHUILA/ Academia IDH.
+Director Administrativo, responsable de adquisiciones, pago a proveedores y presupuesto.
+* TRIBUNAL ELECTORAL DEL ESTADO DE COAHUILA.
+Director General de Administración, responsable de contabilidad gubernamental, recursos
+humanos, recursos financieros y presupuesto.
 
 ### Capaciación Recibida
 
