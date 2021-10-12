@@ -56,3 +56,6 @@ humanos, recursos financieros y presupuesto.
 * Diplomado de Auditoría Gubernamental.
 * Taller de desarrollo de la inteligencia emocional.
 
+### Contacto
+
+<carlos.guzman@cpccoahuila.org.mx>
