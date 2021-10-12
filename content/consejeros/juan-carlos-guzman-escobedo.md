@@ -37,7 +37,7 @@ Director Administrativo, responsable de adquisiciones, pago a proveedores y pres
 Director General de Administración, responsable de contabilidad gubernamental, recursos
 humanos, recursos financieros y presupuesto.
 
-### Capaciación Recibida
+### Capacitación Recibida
 
 * Introducción a la Operación Bancaria.
 * Contabilidad Financiera Básica.
