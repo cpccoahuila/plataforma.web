@@ -7,7 +7,7 @@ Modified: 2020-11-15 15:08
 <
 <img class="img-fluid" src="cpc-ygmm.jpg" alt="Yolanda Guadalupe Montes Martinez">
 
-# Yolanda Guadalupe Montes Martinez
+# Yolanda Guadalupe Montes Martínez
 
 **Consejera del Consejo de Participación Ciudadana**
 
@@ -52,4 +52,4 @@ LA herencia histórica: Brecha salarial de género.
 
 ### Contacto
 
-<yolanda.Montes@cpccoahuila.org.mx>
+<yolanda.montes@cpccoahuila.org.mx>
