@@ -1,4 +1,4 @@
-Title: Yolanda Guadalupe Montes Martinez
+Title: Yolanda Guadalupe Montes Martínez
 Slug: yolanda-guadalupe-montes-martinez
 Summary: Consejera.
 Date: 2020-11-15 09:42
