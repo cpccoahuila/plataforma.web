@@ -29,7 +29,9 @@ _________________________
 ### Sesiones 2021
 
 
-* [<i class="bi bi-camera-reels cam"></i>](https://fb.watch/8w7erX9_rZ/) [<i class="bi bi-file-text acta "></i>](#) Sesión Ordinaria - 5 de octubre
+* [<i class="bi bi-camera-reels cam"></i>](https://fb.watch/8w7erX9_rZ/) [<i class="bi bi-file-text acta "></i>](acta-primera-sesion-ordinaria-cpc.pdf) Sesión Ordinaria - 5 de octubre
+
+* [<i class="bi bi-camera-reels cam"></i>](https://youtu.be/QpS-WlwH6-A) [<i class="bi bi-file-text acta "></i>](#) Sesión Ordinaria - 15 de octubre
 
 _________________________
 
