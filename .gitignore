@@ -4,3 +4,5 @@ __pycache__
 develop_server.sh
 output
 Makefile
+venv/
+.bashrc
