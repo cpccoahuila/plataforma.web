@@ -9,6 +9,7 @@ Modified: 2021-01-19 13:22
 <style type="text/css">
 	.cam {font-size: 2rem; color: red;}
 	.acta {font-size: 2rem; color: grau;}
+    .calendario {font-size: 2rem; color: gray;}
 
 </style>
 
@@ -34,4 +35,8 @@ _________________________
 * [<i class="bi bi-camera-reels cam"></i>](https://youtu.be/QpS-WlwH6-A) [<i class="bi bi-file-text acta "></i>](#) Sesión Ordinaria - 15 de octubre
 
 _________________________
+
+### Calendario sesiones CPC 2021 - 2022
+
+[<i class="bi bi-file-text calendario "></i>](calendario-sesiones-cpc-2021-2022.pdf) - Calendario de sesiones CPC
 
