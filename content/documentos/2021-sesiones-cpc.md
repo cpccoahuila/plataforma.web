@@ -37,6 +37,8 @@ _________________________
 * [<i class="bi bi-camera-reels cam"></i>](https://youtu.be/WoZAkF_Rrtk) [<i class="bi bi-file-text acta "></i>](acta-tercera-sesion-ordinaria-cpc.pdf) Sesión Ordinaria - 29 de octubre [(Orden del día)](tercera-sesion-ordinaria-orden-del-dia.pdf)
 
 * [<i class="bi bi-camera-reels cam"></i>](https://youtu.be/C7YfF2pXhXU) [<i class="bi bi-file-text acta "></i>](#) Sesión Ordinaria - 12 de noviembre [(Orden del día)](cuarta-sesion-ordinaria-orden-del-dia.pdf)
+
+* [<i class="bi bi-camera-reels cam"></i>](#) [<i class="bi bi-file-text acta "></i>](#) Sesión Ordinaria - 26 de noviembre [(Orden del día)](quinta-sesion-ordinaria-orden-del-dia.pdf)
 _________________________
 
 ### Calendario sesiones CPC 2021 - 2022
