@@ -44,7 +44,9 @@ _________________________
 
 * [<i class="bi bi-camera-reels cam"></i>](https://fb.watch/aOIFBr8sCH/) [<i class="bi bi-file-text acta "></i>](#) Sesión Ordinaria - 14 de enero [(Orden del día)](septima-sesion-ordinaria-orden-del-dia.pdf)
 
-* [<i class="bi bi-camera-reels cam"></i>](#) [<i class="bi bi-file-text acta "></i>](#) Sesión Ordinaria - 28 de enero [(Orden del día)](octava-sesion-ordinaria-orden-del-dia.pdf)
+* [<i class="bi bi-camera-reels cam"></i>](https://youtu.be/Bv-j2QaQfpY) [<i class="bi bi-file-text acta "></i>](#) Sesión Ordinaria - 28 de enero [(Orden del día)](octava-sesion-ordinaria-orden-del-dia.pdf)
+
+* [<i class="bi bi-camera-reels cam"></i>](#) [<i class="bi bi-file-text acta "></i>](#) Sesión Ordinaria - 11 de febrero [(Orden del día)](novena-sesion-ordinaria-orden-del-dia.pdf)
 _________________________
 
 ### Calendario sesiones CPC 2021 - 2022
