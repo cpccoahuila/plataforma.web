@@ -40,15 +40,15 @@ _________________________
 
 * [<i class="bi bi-camera-reels cam"></i>](https://youtu.be/91DswnykLWs) [<i class="bi bi-file-text acta "></i>](#) Sesión Ordinaria - 26 de noviembre [(Orden del día)](quinta-sesion-ordinaria-orden-del-dia.pdf)
 
-* [<i class="bi bi-camera-reels cam"></i>](https://youtu.be/ViCBDKiO1GI) [<i class="bi bi-file-text acta "></i>](#) Sesión Ordinaria - 10 de diciembre [(Orden del día)](sexta-sesion-ordinaria-orden-del-dia.pdf)
+* [<i class="bi bi-camera-reels cam"></i>](https://youtu.be/ViCBDKiO1GI) [<i class="bi bi-file-text acta "></i>](acta-sexta-sesion-ordinaria-cpc.pdf) Sesión Ordinaria - 10 de diciembre [(Orden del día)](sexta-sesion-ordinaria-orden-del-dia.pdf)
 
-* [<i class="bi bi-camera-reels cam"></i>](https://fb.watch/aOIFBr8sCH/) [<i class="bi bi-file-text acta "></i>](#) Sesión Ordinaria - 14 de enero [(Orden del día)](septima-sesion-ordinaria-orden-del-dia.pdf)
+* [<i class="bi bi-camera-reels cam"></i>](https://fb.watch/aOIFBr8sCH/) [<i class="bi bi-file-text acta "></i>](acta-septima-sesion-ordinaria-cpc.pdf) Sesión Ordinaria - 14 de enero [(Orden del día)](septima-sesion-ordinaria-orden-del-dia.pdf)
 
-* [<i class="bi bi-camera-reels cam"></i>](https://youtu.be/Bv-j2QaQfpY) [<i class="bi bi-file-text acta "></i>](#) Sesión Ordinaria - 28 de enero [(Orden del día)](octava-sesion-ordinaria-orden-del-dia.pdf)
+* [<i class="bi bi-camera-reels cam"></i>](https://youtu.be/Bv-j2QaQfpY) [<i class="bi bi-file-text acta "></i>](acta-octava-sesion-ordinaria-cpc.pdf) Sesión Ordinaria - 28 de enero [(Orden del día)](octava-sesion-ordinaria-orden-del-dia.pdf)
 
-* [<i class="bi bi-camera-reels cam"></i>](https://youtu.be/U645wRXFLQ4) [<i class="bi bi-file-text acta "></i>](#) Sesión Ordinaria - 11 de febrero [(Orden del día)](novena-sesion-ordinaria-orden-del-dia.pdf)
+* [<i class="bi bi-camera-reels cam"></i>](https://youtu.be/U645wRXFLQ4) [<i class="bi bi-file-text acta "></i>](acta-novena-sesion-ordinaria-cpc.pdf) Sesión Ordinaria - 11 de febrero [(Orden del día)](novena-sesion-ordinaria-orden-del-dia.pdf)
 
-* [<i class="bi bi-camera-reels cam"></i>](#) [<i class="bi bi-file-text acta "></i>](#) Sesión Ordinaria - 25 de febrero [(Orden del día)](decima-sesion-ordinaria-orden-del-dia.pdf)
+* [<i class="bi bi-camera-reels cam"></i>](https://youtu.be/dv6wZmi550E) [<i class="bi bi-file-text acta "></i>](#) Sesión Ordinaria - 25 de febrero [(Orden del día)](decima-sesion-ordinaria-orden-del-dia.pdf)
 _________________________
 
 ### Calendario sesiones CPC 2021 - 2022
