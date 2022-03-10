@@ -1,8 +1,8 @@
 Title: Redes de Organismos de Sociedad Civil
 Slug: rc
 Summary: Inscripción de redes ciudadanas
-Date: 2022-03-22 10:00
-Modified: 2022-03-22 11:00
+Date: 2022-03-07 10:00
+Modified: 2022-03-10 17:00
 
 
 ## Redes de Organismos de Sociedad Civil

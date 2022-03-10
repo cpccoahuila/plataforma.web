@@ -28,6 +28,7 @@ PAGE_PATHS = [
     '3de3',
     'consejeros',
     'contacto',
+    'rc',
     'licencias',
     'transparencia',
     ]
@@ -77,6 +78,7 @@ CATEGORIES_TITLES = {
     'comunicados': 'Comunicados',
     'contacto': 'Contacto',
     'documentos': 'Documentos',
+    'rc' : 'Redes Ciudadanas',
     }
 
 # Encabezados para las etiquetas
