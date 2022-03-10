@@ -49,6 +49,8 @@ _________________________
 * [<i class="bi bi-camera-reels cam"></i>](https://youtu.be/U645wRXFLQ4) [<i class="bi bi-file-text acta "></i>](acta-novena-sesion-ordinaria-cpc.pdf) Sesión Ordinaria - 11 de febrero [(Orden del día)](novena-sesion-ordinaria-orden-del-dia.pdf)
 
 * [<i class="bi bi-camera-reels cam"></i>](https://youtu.be/dv6wZmi550E) [<i class="bi bi-file-text acta "></i>](#) Sesión Ordinaria - 25 de febrero [(Orden del día)](decima-sesion-ordinaria-orden-del-dia.pdf)
+
+* [<i class="bi bi-camera-reels cam"></i>](#) [<i class="bi bi-file-text acta "></i>](#) Sesión Ordinaria - 11 de marzo [(Orden del día)](decima-primera-sesion-ordinaria-orden-del-dia.pdf)
 _________________________
 
 ### Calendario sesiones CPC 2021 - 2022
