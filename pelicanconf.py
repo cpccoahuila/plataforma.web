@@ -75,7 +75,7 @@ AUTHORS_TITLES = {
 # Encabezados para las categorías
 CATEGORIES_TITLES = {
     '3de3': '3 de 3',
-    'comunicados': 'Comunicados',
+    'comunicados': 'Boletines',
     'contacto': 'Contacto',
     'documentos': 'Documentos',
     'osc' : 'Redes Ciudadanas',
