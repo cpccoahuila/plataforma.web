@@ -54,7 +54,7 @@ _________________________
 
 * [<i class="bi bi-camera-reels cam"></i>](https://youtu.be/PQ9XjTuBJYo) [<i class="bi bi-file-text acta "></i>](acta-decima-segunda-sesion-ordinaria-cpc.pdf) Sesión Ordinaria - 25 de marzo [(Orden del día)](decima-segunda-sesion-ordinaria-orden-del-dia.pdf)
 
-* [<i class="bi bi-camera-reels cam"></i>](https://youtu.be/uK4PguVEADk) [<i class="bi bi-file-text acta "></i>](#) Sesión Ordinaria - 8 de abril [(Orden del día)](decima-tercera-sesion-ordinaria-orden-del-dia.pdf)
+* [<i class="bi bi-camera-reels cam"></i>](https://youtu.be/uK4PguVEADk) [<i class="bi bi-file-text acta "></i>](acta-decima-tercera-sesion-ordinaria-cpc.pdf) Sesión Ordinaria - 8 de abril [(Orden del día)](decima-tercera-sesion-ordinaria-orden-del-dia.pdf)
 
 * [<i class="bi bi-camera-reels cam"></i>](#) [<i class="bi bi-file-text acta "></i>](#) Sesión Ordinaria - 22 de abril [(Orden del día)](decima-cuarta-sesion-ordinaria-orden-del-dia.pdf)
 
