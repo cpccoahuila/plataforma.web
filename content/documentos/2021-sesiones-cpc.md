@@ -48,11 +48,11 @@ _________________________
 
 * [<i class="bi bi-camera-reels cam"></i>](https://youtu.be/U645wRXFLQ4) [<i class="bi bi-file-text acta "></i>](acta-novena-sesion-ordinaria-cpc.pdf) Sesión Ordinaria - 11 de febrero [(Orden del día)](novena-sesion-ordinaria-orden-del-dia.pdf)
 
-* [<i class="bi bi-camera-reels cam"></i>](https://youtu.be/dv6wZmi550E) [<i class="bi bi-file-text acta "></i>](#) Sesión Ordinaria - 25 de febrero [(Orden del día)](decima-sesion-ordinaria-orden-del-dia.pdf)
+* [<i class="bi bi-camera-reels cam"></i>](https://youtu.be/dv6wZmi550E) [<i class="bi bi-file-text acta "></i>](acta-decima-sesion-ordinaria-cpc.pdf) Sesión Ordinaria - 25 de febrero [(Orden del día)](decima-sesion-ordinaria-orden-del-dia.pdf)
 
-* [<i class="bi bi-camera-reels cam"></i>](https://youtu.be/ybSxO3RaE90) [<i class="bi bi-file-text acta "></i>](#) Sesión Ordinaria - 11 de marzo [(Orden del día)](decima-primera-sesion-ordinaria-orden-del-dia.pdf)
+* [<i class="bi bi-camera-reels cam"></i>](https://youtu.be/ybSxO3RaE90) [<i class="bi bi-file-text acta "></i>](acta-decima-primera-sesion-ordinaria-cpc.pdf) Sesión Ordinaria - 11 de marzo [(Orden del día)](decima-primera-sesion-ordinaria-orden-del-dia.pdf)
 
-* [<i class="bi bi-camera-reels cam"></i>](https://youtu.be/PQ9XjTuBJYo) [<i class="bi bi-file-text acta "></i>](#) Sesión Ordinaria - 25 de marzo [(Orden del día)](decima-segunda-sesion-ordinaria-orden-del-dia.pdf)
+* [<i class="bi bi-camera-reels cam"></i>](https://youtu.be/PQ9XjTuBJYo) [<i class="bi bi-file-text acta "></i>](acta-decima-segunda-sesion-ordinaria-cpc.pdf) Sesión Ordinaria - 25 de marzo [(Orden del día)](decima-segunda-sesion-ordinaria-orden-del-dia.pdf)
 
 * [<i class="bi bi-camera-reels cam"></i>](https://youtu.be/uK4PguVEADk) [<i class="bi bi-file-text acta "></i>](#) Sesión Ordinaria - 8 de abril [(Orden del día)](decima-tercera-sesion-ordinaria-orden-del-dia.pdf)
 
