@@ -11,4 +11,4 @@ Ya contamos con un primer programa de trabajo enfocado en la formación y formal
 
 [Si quieres conocer más da click.](cronograma-2022.pdf)
 
-[¡Intégrate a la Red de participación ciudadana!]("#") 
+<a href="/osc/convocatoria-2022/">¡Intégrate a la Red de participación ciudadana!</a> 

@@ -31,4 +31,7 @@ Esta es tu red.
 
 <!--object data="lineas-estrategicas.pdf" type="application/pdf" width="100%" height="600"></object-->
 
-[¡Intégrate a la Red de participación ciudadana!]("#")    
+<a href="/osc/convocatoria-2022/">¡Intégrate a la Red de participación ciudadana!</a>
+
+<!--[¡Intégrate a la Red de participación ciudadana!]("/osc/convocatoria-2022/")-->
+   

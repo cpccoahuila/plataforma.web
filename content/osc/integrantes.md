@@ -35,5 +35,4 @@ Por su valiosa colaboración para la generación del documento Líneas Estratég
 * ANADE LAGUNA
 * COPARMEX MUJERES
 
-[¡Intégrate a la Red de participación ciudadana!]("#")
-
+<a href="/osc/convocatoria-2022/">¡Intégrate a la Red de participación ciudadana!</a>

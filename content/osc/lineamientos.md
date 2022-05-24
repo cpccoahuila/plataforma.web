@@ -13,4 +13,4 @@ Asimismo, se formó una Comisión de Normativa que se enfocará en hacer propues
 
 [Si quieres conocer los LINEAMIENTOS sólo da click]("#")
 
-[¡Intégrate a la Red de participación ciudadana!]("#") 
+<a href="/osc/convocatoria-2022/">¡Intégrate a la Red de participación ciudadana!</a>
