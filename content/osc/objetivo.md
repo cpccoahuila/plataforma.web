@@ -1,4 +1,4 @@
-Title: Nuestro Objetivo
+Title: Objetivo
 Slug: objetivo
 Summary: Redes Ciudadanas
 Date: 2022-03-07 10:00

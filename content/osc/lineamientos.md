@@ -11,6 +11,6 @@ En fecha 22 de Abril de 2022 en sesión ordinaria y mediante el acuerdo 38/2021-
 
 Asimismo, se formó una Comisión de Normativa que se enfocará en hacer propuestas de adiciones, actualizaciones y modificaciones a los lineamientos en la medida en que la red avance en su proceso de formación.  
 
-[Si quieres conocer los LINEAMIENTOS sólo da click]("#")
+[Si quieres conocer los LINEAMIENTOS sólo da click](lineamientos.pdf)
 
 <a href="/osc/convocatoria-2022/">¡Intégrate a la Red de participación ciudadana!</a>
