@@ -11,12 +11,11 @@ Modified: 2022-03-10 17:00
 Este año el impulso es mayor, únete al esfuerzo por un Coahuila más transparente y libre de corrupción
 
 CONVOCATORIA 2022
- *Documento*
+
+ **Documento**
+
+<!--object data="lineas-estrategicas.pdf" type="application/pdf" width="100%" height="600"></object-->
 
 
-
-
-
-
-CONVOCATORIA 2022 (Archivo para descargar) 
+[CONVOCATORIA 2022 (Archivo para descargar)]("#")
 

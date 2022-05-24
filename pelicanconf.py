@@ -46,6 +46,7 @@ STATIC_PATHS = [
     'comunicados',
     'documentos',
     'multimedia',
+    'osc',
     ]
 
 # Usar el nombre del directorio como la categoría

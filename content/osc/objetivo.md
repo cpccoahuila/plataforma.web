@@ -27,6 +27,8 @@ Ciudadana y Ciudadano Coahuilense, bienvenida, bienvenido.
 
 Esta es tu red. 
 
-[Si quieres conocer el documento completo sólo da click](lineas-estrategicas.pdf)                
+[Si quieres conocer el documento completo sólo da click](lineas-estrategicas.pdf) 
+
+<!--object data="lineas-estrategicas.pdf" type="application/pdf" width="100%" height="600"></object-->
 
 [¡Intégrate a la Red de participación ciudadana!]("#")    
