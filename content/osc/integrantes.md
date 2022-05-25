@@ -15,7 +15,7 @@ Date: 2022-05-20 12:32
 * CANACO Monclova
 * Asociación Cívica de la Laguna
 * Fundación Merced
-* IDH
+* AIDH
 
 Por su valiosa colaboración para la generación del documento Líneas Estratégicas. 
 
@@ -26,7 +26,7 @@ Por su valiosa colaboración para la generación del documento Líneas Estratég
 * CANACO Monclova
 * Asociación Cívica de la Laguna
 * Fundación Merced
-* IDH
+* AIDH
 * CANACO Francisco I. Madero
 * INCIDE FEMME
 * KYBERNUS COAHUILA
