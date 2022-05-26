@@ -56,9 +56,11 @@ _________________________
 
 * [<i class="bi bi-camera-reels cam"></i>](https://youtu.be/uK4PguVEADk) [<i class="bi bi-file-text acta "></i>](acta-decima-tercera-sesion-ordinaria-cpc.pdf) Sesión Ordinaria - 8 de abril [(Orden del día)](decima-tercera-sesion-ordinaria-orden-del-dia.pdf)
 
-* [<i class="bi bi-camera-reels cam"></i>](#) [<i class="bi bi-file-text acta "></i>](#) Sesión Ordinaria - 22 de abril [(Orden del día)](decima-cuarta-sesion-ordinaria-orden-del-dia.pdf)
+* [<i class="bi bi-camera-reels cam"></i>](https://youtu.be/w0H6ev1Ew9Q) [<i class="bi bi-file-text acta "></i>](#) Sesión Ordinaria - 22 de abril [(Orden del día)](decima-cuarta-sesion-ordinaria-orden-del-dia.pdf)
 
-* [<i class="bi bi-camera-reels cam"></i>](#) [<i class="bi bi-file-text acta "></i>](#) Sesión Ordinaria - 13 de mayo [(Orden del día)](decima-quinta-sesion-ordinaria-orden-del-dia.pdf)
+* [<i class="bi bi-camera-reels cam"></i>](https://youtu.be/G4boBKOKT7M) [<i class="bi bi-file-text acta "></i>](#) Sesión Ordinaria - 13 de mayo [(Orden del día)](decima-quinta-sesion-ordinaria-orden-del-dia.pdf)
+
+* [<i class="bi bi-camera-reels cam"></i>](#) [<i class="bi bi-file-text acta "></i>](#) Sesión Ordinaria - 27 de mayo [(Orden del día)](decima-sexta-sesion-ordinaria-orden-del-dia.pdf)
 _________________________
 
 ### Calendario sesiones CPC 2021 - 2022
