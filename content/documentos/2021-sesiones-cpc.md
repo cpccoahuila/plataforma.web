@@ -29,7 +29,6 @@ _________________________
 
 ### Sesiones 2021
 
-
 * [<i class="bi bi-camera-reels cam"></i>](https://fb.watch/8w7erX9_rZ/) [<i class="bi bi-file-text acta "></i>](acta-primera-sesion-ordinaria-cpc.pdf) Sesión Ordinaria - 5 de octubre
 
 * [<i class="bi bi-camera-reels cam"></i>](https://youtu.be/QpS-WlwH6-A) [<i class="bi bi-file-text acta "></i>](acta-segunda-sesion-ordinaria-cpc.pdf) Sesión Ordinaria - 15 de octubre
@@ -61,9 +60,11 @@ _________________________
 * [<i class="bi bi-camera-reels cam"></i>](https://youtu.be/G4boBKOKT7M) [<i class="bi bi-file-text acta "></i>](acta-decima-quinta-sesion-ordinaria-cpc.pdf) Sesión Ordinaria - 13 de mayo [(Orden del día)](decima-quinta-sesion-ordinaria-orden-del-dia.pdf)
 
 * [<i class="bi bi-camera-reels cam"></i>](#) [<i class="bi bi-file-text acta "></i>](#) Sesión Ordinaria - 27 de mayo [(Orden del día)](decima-sexta-sesion-ordinaria-orden-del-dia.pdf)
+
+* [<i class="bi bi-camera-reels cam"></i>](#) [<i class="bi bi-file-text acta "></i>](#) Sesión Ordinaria - 10 de junio [(Orden del día)](decima-septima-sesion-ordinaria-orden-del-dia.pdf)
+
 _________________________
 
 ### Calendario sesiones CPC 2021 - 2022
 
 [<i class="bi bi-file-text calendario "></i>](calendario-sesiones-cpc-2021-2022.pdf) - Calendario de sesiones CPC
-
