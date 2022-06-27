@@ -63,6 +63,8 @@ _________________________
 
 * [<i class="bi bi-camera-reels cam"></i>](#) [<i class="bi bi-file-text acta "></i>](#) Sesión Ordinaria - 10 de junio [(Orden del día)](decima-septima-sesion-ordinaria-orden-del-dia.pdf)
 
+* [<i class="bi bi-camera-reels cam"></i>](#) [<i class="bi bi-file-text acta "></i>](#) Sesión Ordinaria - 28 de junio [(Orden del día)](decima-octava-sesion-ordinaria-orden-del-dia.pdf)
+
 _________________________
 
 ### Calendario sesiones CPC 2021 - 2022
