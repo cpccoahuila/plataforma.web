@@ -31,6 +31,10 @@ PAGE_PATHS = [
     'osc',
     'licencias',
     'transparencia',
+    'mision-vision-valores',
+    'marcolegal',
+    'informesanuales',
+    
     ]
 
 # Directorios y archivos que son fijos
@@ -47,6 +51,9 @@ STATIC_PATHS = [
     'documentos',
     'multimedia',
     'osc',
+    'mision-vision-valores',
+    'marcolegal',
+    'informesanuales',
     ]
 
 # Usar el nombre del directorio como la categoría

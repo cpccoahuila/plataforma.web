@@ -75,12 +75,11 @@
 {% include 'start-page-informe.html' %}
 {% include 'start-page-convocatoria-tribunal.html' %}
 {% include 'start-page-plan-de-trabajo.html' %}
-{% include 'start-page-cpc.html' %}
 {% endif %}
 {% if articles %}
         <section id="indice">
             <div class="container">
-                <!-- Indice -->
+                <!-- Indice --> 
                 {% for article in articles_page.object_list %}
                 <div class="post-preview">
                     <a href="/{{ article.category }}/{{ article.slug }}/">
@@ -90,7 +89,7 @@
                 </div>
                 <hr>
                 {% endfor %}
-                {% if articles_page %}
+                {% if articles_page %} 
                 <!-- Paginacion -->
                 <nav id="paginacion">
                     <ul class="pagination justify-content-center">
@@ -129,8 +128,8 @@
                 </nav>
                 {% endif %}
             </div>
-        </section>
+        </section> 
 {% else %}
-        <p>No hay contenido.</p>
+        <p>No hay contenido.</p> 
 {% endif %}
 {% endblock %}
