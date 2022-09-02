@@ -33,13 +33,13 @@ _________________________
 
 * [<i class="bi bi-camera-reels cam"></i>](#) [<i class="bi bi-file-text acta "></i>](#) Sesión Ordinaria - 08 de agosto [(Orden del día)](vigesima-sesion-ordinaria-orden-del-dia.pdf)
 
-* [<i class="bi bi-camera-reels cam"></i>](https://youtu.be/k0m_-FQkl1A) [<i class="bi bi-file-text acta "></i>](#) Sesión Ordinaria - 08 de julio [(Orden del día)](decima-novena-sesion-ordinaria-orden-del-dia.pdf)
+* [<i class="bi bi-camera-reels cam"></i>](https://youtu.be/k0m_-FQkl1A) [<i class="bi bi-file-text acta "></i>](acta-decima-novena-sesion-ordinaria-cpc.pdf) Sesión Ordinaria - 08 de julio [(Orden del día)](decima-novena-sesion-ordinaria-orden-del-dia.pdf)
 
-* [<i class="bi bi-camera-reels cam"></i>](https://youtu.be/1Cx1aU5zdLY) [<i class="bi bi-file-text acta "></i>](#) Sesión Ordinaria - 28 de junio [(Orden del día)](decima-octava-sesion-ordinaria-orden-del-dia.pdf)
+* [<i class="bi bi-camera-reels cam"></i>](https://youtu.be/1Cx1aU5zdLY) [<i class="bi bi-file-text acta "></i>](acta-decima-octava-sesion-ordinaria-cpc.pdf) Sesión Ordinaria - 28 de junio [(Orden del día)](decima-octava-sesion-ordinaria-orden-del-dia.pdf)
 
-* [<i class="bi bi-camera-reels cam"></i>](https://youtu.be/WKWHlAbsRDw) [<i class="bi bi-file-text acta "></i>](#) Sesión Ordinaria - 10 de junio [(Orden del día)](decima-septima-sesion-ordinaria-orden-del-dia.pdf)
+* [<i class="bi bi-camera-reels cam"></i>](https://youtu.be/WKWHlAbsRDw) [<i class="bi bi-file-text acta "></i>](acta-decima-septima-sesion-ordinaria-cpc.pdf) Sesión Ordinaria - 10 de junio [(Orden del día)](decima-septima-sesion-ordinaria-orden-del-dia.pdf)
 
-* [<i class="bi bi-camera-reels cam"></i>](https://youtu.be/D71d_B0dtAQ) [<i class="bi bi-file-text acta "></i>](#) Sesión Ordinaria - 27 de mayo [(Orden del día)](decima-sexta-sesion-ordinaria-orden-del-dia.pdf)
+* [<i class="bi bi-camera-reels cam"></i>](https://youtu.be/D71d_B0dtAQ) [<i class="bi bi-file-text acta "></i>](acta-decima-sexta-sesion-ordinaria-cpc.pdf) Sesión Ordinaria - 27 de mayo [(Orden del día)](decima-sexta-sesion-ordinaria-orden-del-dia.pdf)
 
 * [<i class="bi bi-camera-reels cam"></i>](https://youtu.be/G4boBKOKT7M) [<i class="bi bi-file-text acta "></i>](acta-decima-quinta-sesion-ordinaria-cpc.pdf) Sesión Ordinaria - 13 de mayo [(Orden del día)](decima-quinta-sesion-ordinaria-orden-del-dia.pdf)
 
