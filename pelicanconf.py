@@ -34,6 +34,7 @@ PAGE_PATHS = [
     'mision-vision-valores',
     'marcolegal',
     'informesanuales',
+    'convocatorias',
     
     ]
 
@@ -54,6 +55,7 @@ STATIC_PATHS = [
     'mision-vision-valores',
     'marcolegal',
     'informesanuales',
+    'convocatorias',
     ]
 
 # Usar el nombre del directorio como la categoría
