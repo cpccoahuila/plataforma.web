@@ -20,3 +20,6 @@ Modified: 2022-09-15 10:22
 * [Décima Segunda Convocatoria Sesión Ordinaria CPC](decima-segunda-convocatoria-sesion-ordinaria-cpc.pdf)
 * [Décima Primera Convocatoria Sesión Ordinaria CPC](decima-primera-convocatoria-sesion-ordinaria-cpc.pdf)
 * [Décima Convocatoria Sesión Ordinaria CPC](decima-convocatoria-sesion-ordinaria-cpc.pdf)
+* [Novena Convocatoria Sesión Ordinaria CPC](novena-convocatoria-sesion-ordinaria-cpc.pdf)
+* [Octava Convocatoria Sesión Ordinaria CPC](octava-convocatoria-sesion-ordinaria-cpc.pdf)
+* [Séptima Convocatoria Sesión Ordinaria CPC](septima-convocatoria-sesion-ordinaria-cpc.pdf)
