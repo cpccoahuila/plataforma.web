@@ -29,6 +29,8 @@ _________________________
 
 ### Sesiones 2022
 
+* [<i class="bi bi-camera-reels cam"></i>](#) [<i class="bi bi-file-text acta "></i>](#) Sesión Ordinaria - 23 de septiembre [(Orden del día)](vigesima-segunda-sesion-ordinaria-orden-del-dia.pdf)
+
 * [<i class="bi bi-camera-reels cam"></i>](#) [<i class="bi bi-file-text acta "></i>](#) Sesión Ordinaria - 30 de agosto [(Orden del día)](vigesima-primera-sesion-ordinaria-orden-del-dia.pdf)
 
 * [<i class="bi bi-camera-reels cam"></i>](#) [<i class="bi bi-file-text acta "></i>](#) Sesión Ordinaria - 08 de agosto [(Orden del día)](vigesima-sesion-ordinaria-orden-del-dia.pdf)
