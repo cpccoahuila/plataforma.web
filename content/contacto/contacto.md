@@ -10,7 +10,7 @@ Modified: 2021-10-19 18:00
         <img class="img-thumbnail" width="100" height="100" src="/theme/images/cpc-cro.jpg" alt="Carlos Rangel Orona">
     </div>
     <div class="media-body align-self-end">
-        <h5 class="mt-0">Carlos Rangel Orona</h5>
+        <h5 class="mt-0">Carlos Rangel</h5>
         <a href="mailto:carlos.rangel@cpccoahuila.org.mx">carlos.rangel@cpccoahuila.org.mx</a>
     </div>
 </div>
