@@ -27,7 +27,9 @@ Modified: 2021-01-19 13:22
 
 _________________________
 
-### Sesiones 2022
+### Sesiones Ordinarias 2022
+
+* [<i class="bi bi-camera-reels cam"></i>](https://youtu.be/XVsj8IqyEMs) [<i class="bi bi-file-text acta "></i>](#) Sesión Ordinaria - 24 de octubre [(Orden del día)](#)
 
 * [<i class="bi bi-camera-reels cam"></i>](#) [<i class="bi bi-file-text acta "></i>](#) Sesión Ordinaria - 23 de septiembre [(Orden del día)](vigesima-segunda-sesion-ordinaria-orden-del-dia.pdf)
 
@@ -62,7 +64,7 @@ _________________________
 * [<i class="bi bi-camera-reels cam"></i>](https://fb.watch/aOIFBr8sCH/) [<i class="bi bi-file-text acta "></i>](acta-septima-sesion-ordinaria-cpc.pdf) Sesión Ordinaria - 14 de enero [(Orden del día)](septima-sesion-ordinaria-orden-del-dia.pdf)
 
 
-### Sesiones 2021
+### Sesiones Ordinarias 2021
 
 * [<i class="bi bi-camera-reels cam"></i>](https://youtu.be/ViCBDKiO1GI) [<i class="bi bi-file-text acta "></i>](acta-sexta-sesion-ordinaria-cpc.pdf) Sesión Ordinaria - 10 de diciembre [(Orden del día)](sexta-sesion-ordinaria-orden-del-dia.pdf)
 
@@ -76,6 +78,12 @@ _________________________
 
 
 * [<i class="bi bi-camera-reels cam"></i>](https://fb.watch/8w7erX9_rZ/) [<i class="bi bi-file-text acta "></i>](acta-primera-sesion-ordinaria-cpc.pdf) Sesión Ordinaria - 5 de octubre
+
+### Sesiones Extraordinarias
+
+* [<i class="bi bi-camera-reels cam"></i>](https://youtu.be/CH2v_2IzNEc) [<i class="bi bi-file-text acta "></i>](#) Primera Sesión Extraordinaria - 24 de octubre [(Orden del día)](#)
+
+* [<i class="bi bi-camera-reels cam"></i>](https://youtu.be/gYne5VMBxJQ) [<i class="bi bi-file-text acta "></i>](#) Sesión Extraordinaria - 1 de octubre [(Orden del día)](#)
 
 
 _________________________
