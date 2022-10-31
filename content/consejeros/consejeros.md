@@ -37,6 +37,13 @@ Modified: 2022-10-22 11:00
                 </a>
                 <p class="puesto">Consejero</p>
             </div>
+            <div class="col-lg-4 consejero">
+                <a href="/consejeros/karla-samperio-flores/">
+                    <img class="rounded-circle" src="/theme/images/cpc-ksf-150x150.jpg">
+                    <h4 class="nombre">Karla Samperio Flores</h4>
+                </a>
+                <p class="puesto">Consejera</p>
+            </div>
 
         </div>
     </div>

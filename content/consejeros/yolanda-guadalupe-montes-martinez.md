@@ -33,10 +33,10 @@ Modified: 2020-11-15 15:08
 
 ### Publicaciónes
 
-####ELSEVIER FUTURES JOURNAL  (Mayo 2020)
+#### ELSEVIER FUTURES JOURNAL  (Mayo 2020)
 Work/family life by 2040: Between a gig economy and traditional roles Yolanda Montes/ Guillermina Benavides Rincón.
 
-####WORLD FUTURE STUDIES FEDERATION  (Septiembre 2019)
+#### WORLD FUTURE STUDIES FEDERATION  (Septiembre 2019)
 Family and work: scenarios of work/life balance for mexican families by 2040 Yolanda Montes/Guillermina Benavides Rincón.
 
 ### Colaboración en medios
