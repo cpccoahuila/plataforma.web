@@ -6,25 +6,24 @@ Modified: 2022-11-03 17:00
 
 <center>
 
-<hr class="mt-4" style="height:2px;border-width:0;color:#696969;background-color:#696969"> 
+<hr class="mb-1" style="height:2px;border-width:0;color:#696969;background-color:#696969"> 
 
-<h2 class="mt-5"> Formulario de registro</h2>
+<h2 class="mt-3"> Formulario de registro</h2>
 
 
-<a class="btn btn-outline-info btn-block mt-3" href="https://forms.gle/jcpDqSvX6w1a6T748" role="button">Registrese aquí</a>
+<a class="btn btn-info btn-block mt-3" href="https://forms.gle/jcpDqSvX6w1a6T748" style="color:white" role="button">Registrese aquí</a>
 
-<br> 
 
-<hr class="mt-4" style="height:2px;border-width:0;color:#696969;background-color:#696969">
+<hr class="mt-1" style="height:2px;border-width:0;color:#696969;background-color:#696969">
 
 </center>
 
-#### Documentación
+### Documentación
 
 * [Metodología 2022](comision-proyecto-metodologia.pdf)
 * [Convocatoria 2022](convocatoria-2022.pdf)
 
-#### Formatos descargables
+### Formatos descargables
 
 * [Formato para acreditar experiencia](formato-para-acreditacion-experiencia.docx)
 * [Declaración de Intereses para Funcionarios y Personas de Interés Público](declaracion-de-intereses-funcionarios-y-personas-de-interes-publico.xlsx)
