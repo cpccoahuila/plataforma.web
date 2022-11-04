@@ -35,6 +35,7 @@ PAGE_PATHS = [
     'marcolegal',
     'informesanuales',
     'convocatorias',
+    'proceso2022',
     
     ]
 
@@ -56,6 +57,8 @@ STATIC_PATHS = [
     'marcolegal',
     'informesanuales',
     'convocatorias',
+    'proceso2022',
+    
     ]
 
 # Usar el nombre del directorio como la categoría
