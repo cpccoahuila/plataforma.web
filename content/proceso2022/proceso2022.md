@@ -28,7 +28,7 @@ Modified: 2022-11-03 17:00
 * [Formato para acreditar experiencia](formato-para-acreditacion-experiencia.docx)
 * [Declaración de Intereses para Funcionarios y Personas de Interés Público](declaracion-de-intereses-funcionarios-y-personas-de-interes-publico.xlsx)
 
-### Expedientes recibidos para el proceso de selección del Titular de la Secretaría Técnica
+### Candidatas que acreditaron la fase de valoración documental dentro del proceso de selección de la titular de la Secretaría Técnica
 
 1. Larissa Estefanía Esparza Fuentes
 2. Elidé Alejandrina Acosta Reyes
