@@ -37,5 +37,14 @@ Modified: 2022-11-03 17:00
 
 <p align="justify">De acuerdo con la Convocatoria y la Metodología para la selección de la terna de las candidatas para ocupar el cargo de Secretaria Técnica del Sistema Anticorrupción del Estado de Coahuila nos permitimos hacer de su conocimiento que las aspirantes seleccionadas a entrevista son las que se mencionan a continuación, quienes deberán presentarse el 1 de diciembre de este año, en las instalaciones de la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Zaragoza, ubicadas en Blvd. Luis Donaldo Colosio, No. 703, piso 3, Fraccionamiento Valle Real, C.P. 25015 Saltillo, Coahuila, en la hora que se señala:</p>
 
+<br>
 <center>
 <img src="calificaciones.PNG"></center>
+
+<br>
+
+* JPV. Jafia Pacheco Valtierra
+* MFCA. Miguel Francisco Crespo Alvarado
+* YGMM. Yolanda Guadalupe Montes Martínez
+* JCGE. Juan Carlos Guzmán Escobedo
+* KSF. Karla Samperio Flores”
