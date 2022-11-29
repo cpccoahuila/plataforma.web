@@ -4,7 +4,7 @@ Summary:
 Date: 2022-11-03 16:00
 Modified: 2022-11-03 17:00
 
-<center>
+<!-- <center>
 
 <hr class="mb-1" style="height:2px;border-width:0;color:#696969;background-color:#696969"> 
 
@@ -16,7 +16,7 @@ Modified: 2022-11-03 17:00
 
 <hr class="mt-1" style="height:2px;border-width:0;color:#696969;background-color:#696969">
 
-</center>
+</center> -->
 
 ### Documentación
 
@@ -35,3 +35,7 @@ Modified: 2022-11-03 17:00
 3. Amparo Ruiz Montes
 
 
+<p align="justify">De acuerdo con la Convocatoria y la Metodología para la selección de la terna de las candidatas para ocupar el cargo de Secretaria Técnica del Sistema Anticorrupción del Estado de Coahuila nos permitimos hacer de su conocimiento que las aspirantes seleccionadas a entrevista son las que se mencionan a continuación, quienes deberán presentarse el 1 de diciembre de este año, en las instalaciones de la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Zaragoza, ubicadas en Blvd. Luis Donaldo Colosio, No. 703, piso 3, Fraccionamiento Valle Real, C.P. 25015 Saltillo, Coahuila, en la hora que se señala:</p>
+
+<center>
+<img src="calificaciones.PNG"></center>
