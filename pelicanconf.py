@@ -36,6 +36,8 @@ PAGE_PATHS = [
     'informesanuales',
     'convocatorias',
     'proceso2022',
+    'acuerdos',
+    'planes',
     
     ]
 
@@ -58,6 +60,8 @@ STATIC_PATHS = [
     'informesanuales',
     'convocatorias',
     'proceso2022',
+    'acuerdos',
+    'planes',
     
     ]
 
@@ -92,6 +96,7 @@ CATEGORIES_TITLES = {
     'contacto': 'Contacto',
     'documentos': 'Documentos',
     'osc' : 'Redes Ciudadanas',
+    'acuerdos' : 'Acuerdos',
     }
 
 # Encabezados para las etiquetas
