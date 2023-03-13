@@ -3,6 +3,7 @@ Slug: informesanuales
 Summary: 
 Date: 2022-08-18 10:00
 Modified: 2022-08-18 17:00
+Category: transparencia
 
 
 <h1> Informes Anuales </h1>

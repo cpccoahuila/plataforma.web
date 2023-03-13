@@ -3,6 +3,7 @@ Slug: marcolegal
 Summary:
 Date: 2022-08-18 10:00
 Modified: 2022-10-22 11:00
+Category: transparencia
 
 
 * [Ley del Sistema Anticorrupción del estado de Coahuila](ley-sistema-anticorrupcion.pdf)

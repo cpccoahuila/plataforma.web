@@ -25,7 +25,6 @@ ARTICLE_PATHS = [
 
 # Directorios que tienen páginas, no publicaciones
 PAGE_PATHS = [
-    '3de3',
     'consejeros',
     'contacto',
     'osc',
@@ -36,8 +35,8 @@ PAGE_PATHS = [
     'informesanuales',
     'convocatorias',
     'proceso2022',
-    'acuerdos',
     'planes',
+    'transparencia',
     
     ]
 
@@ -49,20 +48,17 @@ STATIC_PATHS = [
     'LICENSE',
     'README.md',
     'robots.txt',
-    '3de3',
-    'consejeros',
     'comunicados',
+    'consejeros',
+    'contacto',
+    'convocatorias',
     'documentos',
+    'licencias',
+    'mision-vision-valores',
     'multimedia',
     'osc',
-    'mision-vision-valores',
-    'marcolegal',
-    'informesanuales',
-    'convocatorias',
     'proceso2022',
-    'acuerdos',
-    'planes',
-    
+    'transparencia',
     ]
 
 # Usar el nombre del directorio como la categoría
