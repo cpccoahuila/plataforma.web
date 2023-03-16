@@ -5,7 +5,7 @@ Date: 2023-03-05 10:22
 Modified: 2022-03-05 10:22
 Save_AS: transparencia/index.html
 
-
+Fecha de última actualización : 05 de Marzo del 2023
 
 1. [Actas](actas/)
 2. [Acuerdos](acuerdos/)

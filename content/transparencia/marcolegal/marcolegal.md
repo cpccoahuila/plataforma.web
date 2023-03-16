@@ -5,6 +5,7 @@ Date: 2022-08-18 10:00
 Modified: 2022-10-22 11:00
 Category: transparencia
 
+Fecha de última actualización : 05 de Marzo del 2023
 
 * [Ley del Sistema Anticorrupción del estado de Coahuila](ley-sistema-anticorrupcion.pdf)
 * [Normas de carácter interno del CPC](normas-caracter-interno-cpc.pdf)

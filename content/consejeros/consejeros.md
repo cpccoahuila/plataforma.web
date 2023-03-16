@@ -5,6 +5,9 @@ Date: 2022-08-17 14:00
 Modified: 2022-10-22 11:00
 
 <!-- Consejeros -->
+
+Fecha de última actualización : 05 de Marzo del 2023
+
 <div class="clearfix" id="consejeros">
     <div class="container">
         <h3>¿Quién conforma el Consejo de Participación Ciudadanas?</h3>

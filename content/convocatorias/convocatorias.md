@@ -8,6 +8,8 @@ Modified: 2022-09-15 10:22
 
 ### Sesiones Ordinarias
 
+Fecha de última actualización : 05 de Marzo del 2023
+
 * [Vigésima Primera Convocatoria Sesión Ordinaria CPC](vigesima-primera-convocatoria-sesion-ordinaria-cpc.pdf)
 * [Vigésima Convocatoria Sesión Ordinaria CPC](vigesima-convocatoria-sesion-ordinaria-cpc.pdf)
 * [Décima Novena Convocatoria Sesión Ordinaria CPC](decima-novena-convocatoria-sesion-ordinaria-cpc.pdf)

@@ -4,6 +4,7 @@ Summary:
 Date: 2022-08-17 14:00
 Modified: 2022-08-17 17:00
 
+Fecha de última actualización : 05 de Marzo del 2023
 
 <h2>Misión</h2>
 Coordinar la participación de la ciudadanía, la academia y el sector privado e impulsar políticas públicas y acciones encaminadas a combatir la corrupción en concordancia con el sistema anticorrupción del estado de Coahuila.

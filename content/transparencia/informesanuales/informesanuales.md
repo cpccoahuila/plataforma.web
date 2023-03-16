@@ -8,6 +8,7 @@ Category: transparencia
 
 <h1> Informes Anuales </h1>
 <br>
+Fecha de última actualización : 05 de Marzo del 2023
 
 * [Informe de Resultados 2021-2022](cpc-coahuila-informe-resultados-2021-2022.pdf)
 * [Informe de Resultados 2020-2021](cpc-coahuila-informe-resultados-2020-2021.pdf)

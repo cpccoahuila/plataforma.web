@@ -5,6 +5,7 @@ Date: 2023-03-10 09:25
 Modified: 2023-03-10 10:00
 Category: transparencia
 
+Fecha de última actualización : 05 de Marzo del 2023
 
 ### Sesiones Ordinarias 2023
 
