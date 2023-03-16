@@ -9,7 +9,7 @@ Fecha de última actualización : 05 de Marzo del 2023
 
 1. [Actas](actas/)
 2. [Acuerdos](acuerdos/)
-3. [Calendario de reuniones](/)
+3. [Calendario de sesiones](calendariosesiones/)
 4. [Contratos de prestación de servicios](/)
 5. [Convenios de colaboración](/)
 6. [Declaraciones Patrimoniales](3de3/)
