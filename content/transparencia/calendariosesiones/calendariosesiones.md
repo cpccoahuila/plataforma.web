@@ -1,4 +1,4 @@
-Title: Calendariosesiones
+Title: Calendario  de sesiones
 Slug: calendariosesiones
 Summary:
 Date: 2023-03-16 16:00
