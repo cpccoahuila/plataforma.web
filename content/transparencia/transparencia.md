@@ -11,7 +11,7 @@ Fecha de última actualización : 05 de Marzo del 2023
 2. [Acuerdos](acuerdos/)
 3. [Calendario de sesiones](calendariosesiones/)
 4. [Contratos de prestación de servicios](/)
-5. [Convenios de colaboración](/)
+5. [Convenios de colaboración](convenios/)
 6. [Declaraciones Patrimoniales](3de3/)
 7. [Informes](informesanuales/)
 8. [Marco Legal](marcolegal/)
